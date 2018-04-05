@@ -6,4 +6,4 @@ date: 2018-04-05
 
 <p>Thanks for Flexible Electronics & Additive Printing Laborotory (FEAP) &&& In-situ Characterization of Additive Printing Laboratory (iCAP).
 <p>  Website: www.imse.iastate.edu/feap
-<>This poster is shown in the Center for Nondestructive Evaluation, Iowa State University in April,2018.
+<p>This poster is shown in the Center for Nondestructive Evaluation, Iowa State University in April,2018.
