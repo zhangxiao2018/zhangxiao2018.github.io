@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Electrohydrodynamic printing technique and it's application."
+title: "Electrohydrodynamic jet printing."
 date: 2018-04-05
 ---
 
