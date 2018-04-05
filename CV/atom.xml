@@ -5,10 +5,10 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Xiao Zhang's CV</title>
-	<link href="http://zhangxiao2018.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://zhangxiao2018.github.io/blog"/>
+	<link href="http://zhangxiao2018.github.io/cv/atom.xml" rel="self"/>
+	<link href="http://zhangxiao2018.github.io/cv"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://zhangxiao2018.github.io/blog</id>
+	<id>http://zhangxiao2018.github.io/cv</id>
 	<author>
 		<name>Xiao Zhang</name>
 		<email>xiaostill@gmail.com</email>
