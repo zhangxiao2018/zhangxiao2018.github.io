@@ -1,5 +1,7 @@
-layout	title	date
-post
-Xiao Zhang
-2018-04-05
+---
+layout: post
+title: "Xiao Zhang"
+date: 2018-04-05
+---
+
 Wrote in yesterday for the future.
