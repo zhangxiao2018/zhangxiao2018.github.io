@@ -4,7 +4,7 @@ title: "3D PRINTING APPLICATIONS FOR FOOD IN HOSPITALS"
 date: 2018-04-05
 ---
 
-![Image of Poster](https://zhangxiao2018.github.com/food.png)
+![Image of Poster](https://zhangxiao2018.github.io/food.png)
 
 <p>Thanks for Flexible Electronics & Additive Printing Laborotory (FEAP) &&& In-situ Characterization of Additive Printing Laboratory (iCAP).
 <p>Website: www.imse.iastate.edu/feap
