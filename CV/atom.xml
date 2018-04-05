@@ -14,7 +14,7 @@ layout: feed
 		<email>xiaostill@gmail.com</email>
 	</author>
 
-	{% for post in site.posts %}
+	{% for post in site.postcv %}
 		<entry>
 			<title>{{ post.title }}</title>
 			<link href="http://zhangxiao2018.github.io{{ post.url }}"/>
