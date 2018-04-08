@@ -1,32 +1,20 @@
 ---
 layout: default
-title: Xiao Zhang
 ---
-<div class="blurb">
-<h1> Hi there, I'm Xiao Zhang!</h1>
-<img src="xiao.png" alt="hi" class="inline"/ width="160">   Email:xiao1@iastate.edu    Office:1117 Black Engineering ,Ames, Iowa, U.S.A
 
-<p><h3>Department of Industrial and Manufacturing Systems Engineering</h3>
-<p>Iowa State University
-<p>1117 Black Engineering Building
-<p>2529 Union Drive
-<p>Ames, IA, 50011-2030
-<p>Phone: (919) 758-3668
-<p>Email:xiao1@iastate.edu
+            
+{% include career-profile.html %}
+            
+{% if site.education_in_main %}
+    {% include education-section.html %}
+{% endif %}
+            
+{% include experience.html %}
+            
+{% include projects.html %}
+            
+{% include publications.html %}
+            
+{% include skills.html %}
 
-<p>Education: Iowa State University, Ames, January 2018 – now
-<p>Ph.D. Degree in Industry Engineering
-<p>North Carolina State University, Raleigh, September 2016 – December 2017
-<p>Ph.D. Degree in Mechanical and Aerospace Engineering
-<p>Wuhan University of Technology, Wuhan, September 2013 – June 2015
-<p>M.S. Degree in Material Engineering
-<p>Wuhan University of Technology, Wuhan, September 2008- June 2012
-<p>B.S. Degree in Material Forming and Control Engineering
-<p>Wuhan University, September 2009 – June 2012
-<p>Minor. Degree in Business Administration
 
-p.title {
-font-size: 1.6em;
-text-align: center;
-margin: 0.5em 0 0 0;
-}
