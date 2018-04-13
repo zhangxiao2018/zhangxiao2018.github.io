@@ -16,7 +16,7 @@ layout: default
  
  Iowa State University
  
- Ames, Iowa, 50011-2030
+ Ames, Iowa, 50011
  
  U.S.A
 
