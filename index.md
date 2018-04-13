@@ -63,6 +63,7 @@ Department of Material Science and Engineering; Wuhan University of Technology
 ## TEACHING EXPERIENCE
 **Teaching Assistant**, January   2018 – Present 
 Eng160F; Iowa State University 
+
 **Tutor For Undergraduate Research**, December   2013 – June 2014 
 Department of Material Science and Engineering; Wuhan University of Technology 
 
