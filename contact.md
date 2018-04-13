@@ -3,19 +3,19 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [xiao1@iastate.edu](mailto:foo@xyz.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+1-919-758-3668](tel:+91-123123)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 1117 Black, Iowa State University
 >
-> London
+> Ames, Iowa
 >
-> United Kingdom
+> U.S.A
 
 ---
 
