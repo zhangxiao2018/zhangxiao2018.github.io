@@ -19,11 +19,6 @@ Electrohydrodynamic Jet Printing for fabricating micro/nano flexible electronics
 ; Laser diffraction and laser ablation manufacturing technique; Bio-printing and Food printing manufacturing 
 ; Large Scale Integrated Circuit manufacturing 
 
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
 ## Education
 Ph.D. in Department of Industrial and Manufacturing Systems, in progress  
 
@@ -44,6 +39,35 @@ Wuhan University of Technology; Wuhan, China
 B.A. in Business Administration, June   2012  
 
 Wuhan University; Wuhan, China 
+
+## RESEARCH EXPERIENCE
+Graduate Research Assistant, December   2017 - present  
+Department of Industrial and Manufacturing Systems; Iowa State University  
+Flexible electronic fabrication by electrohydrodynamic jet printing technique combined with laser ablation  
+
+Graduate Research Assistant, March   2018 - present  
+Department of Food Science and Human Nutrition; Iowa State University 
+Food printing for patients in hospitals 
+
+Graduate Research Assistant, December   2017 - present  
+Center for Nondestructive Evaluation; Iowa State University 
+In-situ characterization for additive printing 
+
+Graduate Research Assistant, October   2016 – March 2017 
+Department of Biological and Agricultural Engineering; North Carolina State University   
+Air quality evaluation, data processing for modeling and simulation 
+
+Graduate Research Assistant, September   2013 – June 2015 
+Department of Material Science and Engineering; Wuhan University of Technology   
+Helical gear deformation technique and optimization for the mold 
+
+Graduate Research Assistant, September   2013 – June 2015 
+Department of Automotive Engineering; Wuhan University of Technology   
+Fine blanking deformation technique including the machine, process, material. 
+
+Graduate Research Assistant, September   2013 – June 2015 
+Department of Material Science and Engineering; Wuhan University of Technology   
+National Natural Science Foundation of China project “Helical cylindrical gear precision forming mechanism and technology research”(project number: Project Number: 51375356). 
 
 ## Typography
 
