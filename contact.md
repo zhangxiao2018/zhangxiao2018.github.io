@@ -14,6 +14,10 @@ layout: default
 
  1117 Black Engineering Building, 2529 Union Drive
  
+ Department of Industry & Manufacturing Systems Engineering
+
+ College of Engineering
+ 
  Iowa State University
  
  Ames, Iowa, 50011
