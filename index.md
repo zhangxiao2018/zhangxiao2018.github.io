@@ -100,9 +100,9 @@ Wafer package and testing, PVD, CVD, photoresist coater/decoater machine mainten
 
 ## SERVICE  
 * Reviewed articles for: 
-The American Society of Mechanical Engineers Department of Material Science and Engineering; Wuhan  
+The American Society of Mechanical Engineers
 
-* Vice president of Information and Cyber Association 
+* Vice president of Information and Cyber Association, Wuhan University of Technology
 August 2009- May 2012 
 
 ## MEMBERSHIP  
