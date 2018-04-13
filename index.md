@@ -10,12 +10,35 @@ Hi! I am a Ph.D. student of Department of Industrial and Manufacturing Systems E
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Electrohydrodynamic Jet Printing for fabricating micro/nano flexible electronics; In-situ Image processing and close-loop control process 
+; Laser diffraction and laser ablation manufacturing technique; Bio-printing and Food printing manufacturing 
+; Large Scale Integrated Circuit manufacturing 
 
 ## Publications
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+
+## Education
+Ph.D. in Department of Industrial and Manufacturing Systems, in progress  
+
+Iowa State University; Ames, Iowa 
+
+Ph.D. in Mechanical and Aerospace Engineering, December 2017  
+
+North Carolina State University; Raleigh, North Carolina 
+
+M.S. in Department of Material Science and Engineering, June   2015  
+
+Wuhan University of Technology; Wuhan, China   
+
+B.A. in Department of Material Science and Engineering, June   2012  
+
+Wuhan University of Technology; Wuhan, China  
+
+B.A. in Business Administration, June   2012  
+
+Wuhan University; Wuhan, China 
 
 ## Typography
 
