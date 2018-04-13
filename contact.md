@@ -21,4 +21,4 @@ is_contact: true
 
 ## Social
 
-1. [Linkedin](www.linkedin.com/in/zhangxiao3616b9126/)
+1. [Linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
