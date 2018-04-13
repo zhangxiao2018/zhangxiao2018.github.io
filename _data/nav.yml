@@ -1,8 +1,8 @@
 - name: "Contact"
   link: "contact"
 
-- name: "Resume"
-  link: "Resume.pdf"
+- name: "resume"
+  link: "resume.pdf"
 
 - name: "About"
   link: "/researcher/"
