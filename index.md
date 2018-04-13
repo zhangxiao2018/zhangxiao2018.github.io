@@ -22,8 +22,8 @@ Electrohydrodynamic Jet Printing for fabricating micro/nano flexible electronics
 ; Large Scale Integrated Circuit manufacturing 
 
 ## Education
-Ph.D. in Department of Industrial and Manufacturing Systems, in progress  
-Iowa State University; Ames, Iowa 
+Ph.D. in [Department of Industrial and Manufacturing Systems](https://www.imse.iastate.edu/), in progress  
+[Iowa State University](https://www.iastate.edu/); Ames, Iowa 
 
 Ph.D. in Mechanical and Aerospace Engineering, December 2017  
 North Carolina State University; Raleigh, North Carolina 
@@ -86,17 +86,17 @@ Wafer package and testing, PVD, CVD, photoresist coater/decoater machine mainten
 **1.** “Machine vision assisted micro-filament detection for real-time monitoring of electrodydrodynamic inkjet printing”, in process, FAIM2018, Ohio State University; June 2018
 
 ## PRESENTATIONS 
-**4.** “MICRO-FILAMENT DETECTION OF ELECTROHYDRODYNAMIC JET PRINTING”, Industry/University Research Center Semi-Annual Review. Ames, Iowa; April 2018. 
-**3.** “Application of 3D Printing to Food Preparation at Ames Hospitals”, poster competition, Center for Crops Utilization Research BioCentury Research Farm. Ames, Iowa; April 2018. 
-**2.** “Model Reconstruction in Additive Printing: A New Approach for in-situ Monitoring and Nondestructive Evaluation of Printed Constructs”, Industry/University Research Center Semi-Annual Review. Ames, Iowa; April 2018. 
-**1.** “Machin vision assisted micro-filament detection for real-time monitoring of electrodydrodynamic inkjet printing, Rahul in process”, FAIM2018 conference. Columbus, Ohio; June 2018. 
+**4.**  “MICRO-FILAMENT DETECTION OF ELECTROHYDRODYNAMIC JET PRINTING”, Industry/University Research Center Semi-Annual Review. Ames, Iowa; April 2018. 
+**3.**  “Application of 3D Printing to Food Preparation at Ames Hospitals”, poster competition, Center for Crops Utilization Research BioCentury Research Farm. Ames, Iowa; April 2018. 
+**2.**  “Model Reconstruction in Additive Printing: A New Approach for in-situ Monitoring and Nondestructive Evaluation of Printed Constructs”, Industry/University Research Center Semi-Annual Review. Ames, Iowa; April 2018. 
+**1.**  “Machin vision assisted micro-filament detection for real-time monitoring of electrodydrodynamic inkjet printing, Rahul in process”, FAIM2018 conference. Columbus, Ohio; June 2018. 
 
 ## ORTHER MEETINGS & WORKSHOPS 
-**5.** ASME 2018/MSEC Manufacturing Science and Engineering Conference. Taxas A&M University, TX; June 2018 
-**4.** Industry/University Research Center Semi-Annual Review. Ames, Iowa; April 2018 
-**3.** The 15th Shanghai International Automobile Industry Exhibition. Wuhan, China; April 2013 
-**2.** Munich Shanghai Electronic Components Expo. Shanghai, China; March 2013  
-**1.** Advanced Engineering Symposium. Wuhan, China; December 2011 
+**5.**  ASME 2018/MSEC Manufacturing Science and Engineering Conference. Taxas A&M University, TX; June 2018 
+**4.**  Industry/University Research Center Semi-Annual Review. Ames, Iowa; April 2018 
+**3.**  The 15th Shanghai International Automobile Industry Exhibition. Wuhan, China; April 2013 
+**2.**  Munich Shanghai Electronic Components Expo. Shanghai, China; March 2013  
+**1.**  Advanced Engineering Symposium. Wuhan, China; December 2011 
 
 ## SERVICE  
 * Reviewed articles for: 
