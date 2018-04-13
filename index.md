@@ -32,7 +32,7 @@ Ph.D. in [Mechanical and Aerospace Engineering](https://www.mae.ncsu.edu/), Dece
 M.S. in [Department of Material Science and Engineering](http://smse.whut.edu.cn/bkspy/zysz/index_1.htm), June   2015  
 [Wuhan University of Technology](http://english.whut.edu.cn/); Wuhan, China   
 
-B.A. in Department of Material Science and Engineering, June   2012  
+B.A. in [Department of Material Science and Engineering](http://smse.whut.edu.cn/bkspy/zysz/index_1.htm), June   2012  
 [Wuhan University of Technology](http://english.whut.edu.cn/); Wuhan, China  
 
 B.A. in [Business Administration](https://www.china-admissions.com/wuhan-university/programs/bachelors/bachelors-business-administration-wuhan-university/), June   2012  
@@ -40,19 +40,19 @@ B.A. in [Business Administration](https://www.china-admissions.com/wuhan-univers
 
 ## RESEARCH EXPERIENCE
 **Graduate Research Assistant**, December   2017 - present  
-Department of Industrial and Manufacturing Systems; Iowa State University  
+[Department of Industrial and Manufacturing Systems](https://www.imse.iastate.edu/); Iowa State University  
 Flexible electronic fabrication by electrohydrodynamic jet printing technique combined with laser ablation  
 
 **Graduate Research Assistant**, March   2018 - present  
-Department of Food Science and Human Nutrition; Iowa State University 
+[Department of Food Science and Human Nutrition](https://fshn.hs.iastate.edu/); Iowa State University 
 Food printing for patients in hospitals 
 
 **Graduate Research Assistant**, December   2017 - present  
-Center for Nondestructive Evaluation; Iowa State University 
+[Center for Nondestructive Evaluation](https://www.cnde.iastate.edu/); Iowa State University 
 In-situ characterization for additive printing 
 
 **Graduate Research Assistant**, October   2016 – March 2017 
-Department of Biological and Agricultural Engineering; North Carolina State University   
+[Department of Biological and Agricultural Engineering](https://www.bae.ncsu.edu/); North Carolina State University   
 Air quality evaluation, data processing for modeling and simulation 
 
 **Graduate Research Assistant**, September   2013 – June 2015 
@@ -65,7 +65,6 @@ Fine blanking deformation technique including the machine, process, material.
 
 **Graduate Research Assistant**, September   2013 – June 2015 
 Department of Material Science and Engineering; Wuhan University of Technology 
-
 **National Natural Science Foundation** of China project “Helical cylindrical gear precision forming mechanism and technology research”(project number: Project Number: 51375356). 
 
 ## TEACHING EXPERIENCE
@@ -76,7 +75,7 @@ Department of Material Science and Engineering; Wuhan University of Technology
 
 ## WORK EXPERIENCE 
 **Equipment Engineer**, March   2013 – September 2013 
-Semiconductor Manufacturing Incorporation (SMIC); Shanghai   
+[Semiconductor Manufacturing Incorporation (SMIC)](http://www.smics.com/eng/index.php); Shanghai   
 Wafer package and testing, PVD, CVD, photoresist coater/decoater machine maintenance, recipe development 
 
 ## HONORS & AWARDS 
