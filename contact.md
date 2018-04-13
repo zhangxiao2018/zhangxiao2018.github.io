@@ -12,7 +12,7 @@ layout: default
 
 ## Mailing Address
 
- 1117 Black Engineering Building, 2529 Union Drive
+ 1117 Black Engineering Building
  
  Department of Industry & Manufacturing Systems Engineering
 
