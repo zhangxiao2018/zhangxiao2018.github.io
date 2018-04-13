@@ -112,4 +112,8 @@ August 2009- May 2012
 * ASME Member, March 2018 - present 
 
 ## OTHER SKILLS  
-**VBA, Python, MATLAB, SOLIDWORKS, ANSYS, DEFORM, PROE, ORIGIN** 
+**E-JET PRINTER,UV LASER ABLATION MACHINE, WORLD SERIES MICRO-NEEDLE PULLER, VBA, Python, MATLAB, SOLIDWORKS, ANSYS, DEFORM, PROE, ORIGIN, ARTIFICIAL INTELLIGECE** 
+
+## OTHER SKILLS 
+In the spare time, I like to work out and play games. Tennis, Golf, Basketball, Swimming, Football, Pingpong, Hiking etc. Other than sports, I like art especially about paintings, istallation art. I like music (Classical piano, popular songs both Chinese and American) and dancing (Traditional like Lomba, modern like wave, breaking). Moreover, I would prefer to spend more time with friends as well as with family.
+
