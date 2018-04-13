@@ -26,23 +26,18 @@ Electrohydrodynamic Jet Printing for fabricating micro/nano flexible electronics
 
 ## Education
 Ph.D. in Department of Industrial and Manufacturing Systems, in progress  
-
 Iowa State University; Ames, Iowa 
 
 Ph.D. in Mechanical and Aerospace Engineering, December 2017  
-
 North Carolina State University; Raleigh, North Carolina 
 
 M.S. in Department of Material Science and Engineering, June   2015  
-
 Wuhan University of Technology; Wuhan, China   
 
 B.A. in Department of Material Science and Engineering, June   2012  
-
 Wuhan University of Technology; Wuhan, China  
 
 B.A. in Business Administration, June   2012  
-
 Wuhan University; Wuhan, China 
 
 ## RESEARCH EXPERIENCE
