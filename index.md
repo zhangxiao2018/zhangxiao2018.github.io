@@ -17,12 +17,9 @@ Currently, I am working in the [Flexible Electronics and Additive Printing (FEAP
 Ames, IA, 50010-2030
 - - -
 Email: xiao1@iastate.edu
-- - -
 
 ## Research Interest
-
-Electrohydrodynamic Jet Printing for fabricating micro/nano flexible electronics; In-situ Image processing and close-loop control process 
-; Laser diffraction and laser ablation manufacturing technique; Bio-printing and Food printing manufacturing 
+Electrohydrodynamic Jet Printing for fabricating micro/nano flexible electronics; In-situ Image processing and close-loop control process; Laser diffraction and laser ablation manufacturing technique; Bio-printing and Food printing manufacturing 
 ; Large Scale Integrated Circuit manufacturing 
 
 ## Education
