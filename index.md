@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="xiaozhang.jpg">
 
-Hi! I am a Ph.D. student of Department of Industrial and Manufacturing Systems Engineering at Iowa State University.
+Hi! I am a Ph.D. student of [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.iastate.edu/) at Iowa State University.
 
 Currently, I am working in the Flexible Electronics and Additive Printing (FEAP) Laboratory & In-situ Characterization for Additive Printing (iCAP) Laboratory.
 
@@ -41,33 +41,40 @@ B.A. in Business Administration, June   2012
 Wuhan University; Wuhan, China 
 
 ## RESEARCH EXPERIENCE
-Graduate Research Assistant, December   2017 - present  
+**Graduate Research Assistant**, December   2017 - present  
 Department of Industrial and Manufacturing Systems; Iowa State University  
 Flexible electronic fabrication by electrohydrodynamic jet printing technique combined with laser ablation  
 
-Graduate Research Assistant, March   2018 - present  
+**Graduate Research Assistant**, March   2018 - present  
 Department of Food Science and Human Nutrition; Iowa State University 
 Food printing for patients in hospitals 
 
-Graduate Research Assistant, December   2017 - present  
+**Graduate Research Assistant**, December   2017 - present  
 Center for Nondestructive Evaluation; Iowa State University 
 In-situ characterization for additive printing 
 
-Graduate Research Assistant, October   2016 – March 2017 
+**Graduate Research Assistant**, October   2016 – March 2017 
 Department of Biological and Agricultural Engineering; North Carolina State University   
 Air quality evaluation, data processing for modeling and simulation 
 
-Graduate Research Assistant, September   2013 – June 2015 
+**Graduate Research Assistant**, September   2013 – June 2015 
 Department of Material Science and Engineering; Wuhan University of Technology   
 Helical gear deformation technique and optimization for the mold 
 
-Graduate Research Assistant, September   2013 – June 2015 
+**Graduate Research Assistant**, September   2013 – June 2015 
 Department of Automotive Engineering; Wuhan University of Technology   
 Fine blanking deformation technique including the machine, process, material. 
 
-Graduate Research Assistant, September   2013 – June 2015 
+**Graduate Research Assistant**, September   2013 – June 2015 
 Department of Material Science and Engineering; Wuhan University of Technology   
-National Natural Science Foundation of China project “Helical cylindrical gear precision forming mechanism and technology research”(project number: Project Number: 51375356). 
+**National Natural Science Foundation** of China project “Helical cylindrical gear precision forming mechanism and technology research”(project number: Project Number: 51375356). 
+
+## TEACHING EXPERIENCE
+**Teaching Assistant**, January   2018 – Present 
+Eng160F; Iowa State University 
+
+**Tutor For Undergraduate Research**, December   2013 – June 2014 
+Department of Material Science and Engineering; Wuhan University of Technology 
 
 ## Typography
 
