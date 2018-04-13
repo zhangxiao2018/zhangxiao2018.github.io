@@ -11,9 +11,11 @@ is_contact: true
 
 ## Mailing Address
 
-> 1117 Black, Iowa State University
-> Ames, Iowa
-> U.S.A
+ 1117 Black, Iowa State University
+ 
+ Ames, Iowa
+ 
+ U.S.A
 
 ---
 
