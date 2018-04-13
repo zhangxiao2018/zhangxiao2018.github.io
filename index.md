@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="xiaozhang.jpg">
 
 Hi! I am a Ph.D. student of Department of Industrial and Manufacturing Systems Engineering at Iowa State University.
 
