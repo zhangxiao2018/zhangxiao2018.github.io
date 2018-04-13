@@ -85,3 +85,28 @@ Wafer package and testing, PVD, CVD, photoresist coater/decoater machine mainten
 * National Scholarship, Wuhan University of Technology, 2013 – 2014 
 * University Scholarship, Wuhan University of Technology, 2009 – 2011 
 
+## PUBLICATIONS & REPORTS 
+**1.** “Machine vision assisted micro-filament detection for real-time monitoring of electrodydrodynamic inkjet printing”, in process, FAIM2018, Ohio State University; June 2018
+
+## PRESENTATIONS 
+* “MICRO-FILAMENT DETECTION OF ELECTROHYDRODYNAMIC JET PRINTING”, Industry/University Research Center Semi-Annual Review. Ames, Iowa; April 2018. 
+* “Application of 3D Printing to Food Preparation at Ames Hospitals”, poster competition, Center for Crops Utilization Research BioCentury Research Farm. Ames, Iowa; April 2018. 
+* “Model Reconstruction in Additive Printing: A New Approach for in-situ Monitoring and Nondestructive Evaluation of Printed Constructs”, Industry/University Research Center Semi-Annual Review. Ames, Iowa; April 2018. 
+* “Machin vision assisted micro-filament detection for real-time monitoring of electrodydrodynamic inkjet printing, Rahul in process”, FAIM2018 conference. Columbus, Ohio; June 2018. 
+
+## ORTHER MEETINGS & WORKSHOPS 
+* ASME 2018/MSEC Manufacturing Science and Engineering Conference. Taxas A&M University, TX; June 2018 
+* Industry/University Research Center Semi-Annual Review. Ames, Iowa; April 2018 
+* The 15th Shanghai International Automobile Industry Exhibition. Wuhan, China; April 2013 
+* Munich Shanghai Electronic Components Expo. Shanghai, China; March 2013  
+* Advanced Engineering Symposium. Wuhan, China; December 2011 
+
+## SERVICE  
+* Reviewed articles for: 
+The American Society of Mechanical Engineers Department of Material Science and Engineering; Wuhan  
+
+* Vice president of Information and Cyber Association 
+August 2009- May 2012 
+
+## HONORS & AWARDS 
+
