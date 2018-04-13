@@ -25,17 +25,17 @@ Electrohydrodynamic Jet Printing for fabricating micro/nano flexible electronics
 Ph.D. in [Department of Industrial and Manufacturing Systems](https://www.imse.iastate.edu/), in progress  
 [Iowa State University](https://www.iastate.edu/); Ames, Iowa 
 
-Ph.D. in Mechanical and Aerospace Engineering, December 2017  
-North Carolina State University; Raleigh, North Carolina 
+Ph.D. in [Mechanical and Aerospace Engineering](https://www.mae.ncsu.edu/), December 2017  
+[North Carolina State University](https://www.ncsu.edu/); Raleigh, North Carolina 
 
-M.S. in Department of Material Science and Engineering, June   2015  
-Wuhan University of Technology; Wuhan, China   
+M.S. in [Department of Material Science and Engineering](http://smse.whut.edu.cn/bkspy/zysz/index_1.htm), June   2015  
+[Wuhan University of Technology](http://english.whut.edu.cn/); Wuhan, China   
 
 B.A. in Department of Material Science and Engineering, June   2012  
-Wuhan University of Technology; Wuhan, China  
+[Wuhan University of Technology](http://english.whut.edu.cn/); Wuhan, China  
 
-B.A. in Business Administration, June   2012  
-Wuhan University; Wuhan, China 
+B.A. in [Business Administration](https://www.china-admissions.com/wuhan-university/programs/bachelors/bachelors-business-administration-wuhan-university/), June   2012  
+[Wuhan University](http://en.whu.edu.cn/); Wuhan, China 
 
 ## RESEARCH EXPERIENCE
 **Graduate Research Assistant**, December   2017 - present  
