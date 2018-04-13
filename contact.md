@@ -1,7 +1,5 @@
----
-layout: default
-is_contact: true
----
+
+- - -
 
 * Email: xiao1@iastate.edu
 
