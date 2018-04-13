@@ -12,13 +12,13 @@ layout: default
 
 ## Mailing Address
 
- 1117 Black, Iowa State University
+ 1117 Black Engineering Building, 2529 Union Drive
  
- Ames, Iowa
+ Iowa State University
+ 
+ Ames, Iowa, 50010-2030
  
  U.S.A
-
----
 
 ## Social
 
