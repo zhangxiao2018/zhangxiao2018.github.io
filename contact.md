@@ -5,7 +5,7 @@ is_contact: true
 
 * Email: xiao1@iastate.edu
 
-* Phone: +1-919-758-3668
+* Phone: +1(919-758-3668)
 
 ---
 
@@ -19,4 +19,4 @@ is_contact: true
 
 ## Social
 
-1. [Linkedin](www.linkedin.com/in/zhangxiao3616b9126)
+1. [Linkedin](www.linkedin.com/in/zhangxiao3616b9126/)
