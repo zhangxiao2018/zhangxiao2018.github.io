@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="xiaozhang.jpg">
 
-Hi! I am a Ph.D. student of [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.iastate.edu/) at Iowa State University.
+Hi! I am a Ph.D. student of [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.iastate.edu/) at [Iowa State University](https://www.iastate.edu/).
 
-Currently, I am working in the Flexible Electronics and Additive Printing (FEAP) Laboratory & In-situ Characterization for Additive Printing (iCAP) Laboratory.
+Currently, I am working in the [Flexible Electronics and Additive Printing (FEAP) Laboratory](https://www.imse.iastate.edu/feap/) & In-situ Characterization for Additive Printing (iCAP) Laboratory.
 
 1117 Black Engineering Building 
 
@@ -108,5 +108,9 @@ The American Society of Mechanical Engineers Department of Material Science and 
 * Vice president of Information and Cyber Association 
 August 2009- May 2012 
 
-## HONORS & AWARDS 
+## MEMBERSHIP  
+* IEEE Member; March 2018 - present   
+* ASME Member, March 2018 - present 
 
+## OTHER SKILLS  
+**VBA, Python, MATLAB, SOLIDWORKS, ANSYS, DEFORM, PROE, ORIGIN** 
