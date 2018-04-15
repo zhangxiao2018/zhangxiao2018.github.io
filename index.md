@@ -116,7 +116,14 @@ August 2009- May 2012
 
 ## Interests in life
 In the spare time, I like to work out and play games. Tennis, Golf, Bowling, Basketball, Swimming, Football, Pingpong, squash, Hiking，billiards, biking, badminton etc. Other than sports, I like art especially about paintings, istallation art. I like music (Classical piano, popular songs both Chinese and American) and dancing (Traditional like Lomba, modern like wave, breaking). Moreover, I would prefer to spend more time with friends as well as with family.
+
+
+
 - - -
 
 
+
+
+
+Iowa State University                                                                                                               IMSE
 - - -
