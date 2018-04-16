@@ -35,19 +35,19 @@ B.A. in [Business Administration](https://www.china-admissions.com/wuhan-univers
 - - -
 ## RESEARCH EXPERIENCE
 **Graduate Research Assistant**, December   2017 - present  
-[Department of Industrial and Manufacturing Systems](https://www.imse.iastate.edu/); Iowa State University  
+[Department of Industrial and Manufacturing Systems](https://www.imse.iastate.edu/); [Iowa State University](https://www.iastate.edu/)  
 Flexible electronic fabrication by electrohydrodynamic jet printing technique combined with laser ablation  
 
 **Graduate Research Assistant**, March   2018 - present  
-[Department of Food Science and Human Nutrition](https://fshn.hs.iastate.edu/); Iowa State University 
+[Department of Food Science and Human Nutrition](https://fshn.hs.iastate.edu/); [Iowa State University](https://www.iastate.edu/) 
 Food printing for patients in hospitals 
 
 **Graduate Research Assistant**, December   2017 - present  
-[Center for Nondestructive Evaluation](https://www.cnde.iastate.edu/); Iowa State University 
+[Center for Nondestructive Evaluation](https://www.cnde.iastate.edu/); [Iowa State University](https://www.iastate.edu/) 
 In-situ characterization for additive printing 
 
 **Graduate Research Assistant**, October   2016 – March 2017 
-[Department of Biological and Agricultural Engineering](https://www.bae.ncsu.edu/); North Carolina State University   
+[Department of Biological and Agricultural Engineering](https://www.bae.ncsu.edu/); [North Carolina State University](https://www.ncsu.edu/)   
 Air quality evaluation, data processing for modeling and simulation 
 
 **Graduate Research Assistant**, September   2013 – June 2015 
@@ -59,7 +59,7 @@ Helical gear deformation technique and optimization for the mold
 Fine blanking deformation technique including the machine, process, material. 
 
 **Graduate Research Assistant**, September   2013 – June 2015 
-[Department of Material Science and Engineering](http://smse.whut.edu.cn/bkspy/zysz/index_1.htm); Wuhan University of Technology(http://english.whut.edu.cn/)  
+[Department of Material Science and Engineering](http://smse.whut.edu.cn/bkspy/zysz/index_1.htm); [Wuhan University of Technology](http://english.whut.edu.cn/)  
 **National Natural Science Foundation** of China project “Helical cylindrical gear precision forming mechanism and technology research”(project number: Project Number: 51375356). 
 
 - - -
