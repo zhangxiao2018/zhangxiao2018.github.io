@@ -15,6 +15,7 @@ Currently, I am working in the [Flexible Electronics and Additive Printing (FEAP
 Electrohydrodynamic Jet Printing for fabricating micro/nano flexible electronics; In-situ Image processing and close-loop control process; Laser diffraction and laser ablation manufacturing technique; Bio-printing and Food printing manufacturing 
 ; Large Scale Integrated Circuit manufacturing 
 
+- - -
 ## Education
 Ph.D. in [Department of Industrial and Manufacturing Systems](https://www.imse.iastate.edu/), in progress  
 [Iowa State University](https://www.iastate.edu/); Ames, Iowa 
@@ -31,6 +32,7 @@ B.A. in [Department of Material Science and Engineering](http://smse.whut.edu.cn
 B.A. in [Business Administration](https://www.china-admissions.com/wuhan-university/programs/bachelors/bachelors-business-administration-wuhan-university/), June   2012  
 [Wuhan University](http://en.whu.edu.cn/); Wuhan, China 
 
+- - -
 ## RESEARCH EXPERIENCE
 **Graduate Research Assistant**, December   2017 - present  
 [Department of Industrial and Manufacturing Systems](https://www.imse.iastate.edu/); Iowa State University  
@@ -60,6 +62,7 @@ Fine blanking deformation technique including the machine, process, material.
 Department of Material Science and Engineering; Wuhan University of Technology 
 **National Natural Science Foundation** of China project “Helical cylindrical gear precision forming mechanism and technology research”(project number: Project Number: 51375356). 
 
+- - -
 ## TEACHING EXPERIENCE
 **Teaching Assistant**, January   2018 – Present 
 Eng160F; Iowa State University 
@@ -67,18 +70,22 @@ Eng160F; Iowa State University
 **Tutor For Undergraduate Research**, December   2013 – June 2014 
 Department of Material Science and Engineering; Wuhan University of Technology 
 
+- - -
 ## WORK EXPERIENCE 
 **Equipment Engineer**, March   2013 – September 2013 
 [Semiconductor Manufacturing Incorporation (SMIC)](http://www.smics.com/eng/index.php); Shanghai   
 Wafer package and testing, PVD, CVD, photoresist coater/decoater machine maintenance, recipe development 
 
+- - -
 ## HONORS & AWARDS 
 * National Scholarship, Wuhan University of Technology, 2013 – 2014 
 * University Scholarship, Wuhan University of Technology, 2009 – 2011 
 
+- - -
 ## PUBLICATIONS & REPORTS 
 **1.** “Machine vision assisted micro-filament detection for real-time monitoring of electrodydrodynamic inkjet printing”, in process, FAIM2018, Ohio State University; June 2018
 
+- - -
 ## PRESENTATIONS 
 **4.** “MICRO-FILAMENT DETECTION OF ELECTROHYDRODYNAMIC JET PRINTING”, Industry/University Research Center Semi-Annual Review. Ames, Iowa; April 2018. 
 
@@ -88,6 +95,7 @@ Wafer package and testing, PVD, CVD, photoresist coater/decoater machine mainten
 
 **1.** “Machin vision assisted micro-filament detection for real-time monitoring of electrodydrodynamic inkjet printing, Rahul in process”, FAIM2018 conference. Columbus, Ohio; June 2018. 
 
+- - -
 ## ORTHER MEETINGS & WORKSHOPS 
 **5.** ASME 2018/MSEC Manufacturing Science and Engineering Conference. Taxas A&M University, TX; June 2018
 
@@ -99,6 +107,7 @@ Wafer package and testing, PVD, CVD, photoresist coater/decoater machine mainten
 
 **1.** Advanced Engineering Symposium. Wuhan, China; December 2011 
 
+- - -
 ## SERVICE  
 * Reviewed articles for: 
 The American Society of Mechanical Engineers
@@ -106,14 +115,17 @@ The American Society of Mechanical Engineers
 * Vice president of Information and Cyber Association, Wuhan University of Technology
 August 2009- May 2012 
 
+- - -
 ## MEMBERSHIP  
 * IEEE Member; March 2018 - present
 
 * ASME Member, March 2018 - present 
 
+- - -
 ## SKILLS  
 **VBA, Python, MATLAB, SOLIDWORKS, ANSYS, DEFORM, PROE, ORIGIN** 
 
+- - -
 ## Life
 In the spare time, I like to work out and play games. Tennis, Golf, Bowling, Basketball, Swimming, Football, Pingpong, squash, Hiking，billiards, biking, badminton etc. Other than sports, I like art especially about paintings, istallation art. I like music (Classical piano, popular songs both Chinese and American) and dancing (Traditional like Lomba, modern like wave, breaking). Moreover, I would prefer to spend more time with friends as well as with family.
 
