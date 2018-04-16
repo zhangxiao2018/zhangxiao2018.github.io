@@ -51,15 +51,15 @@ In-situ characterization for additive printing
 Air quality evaluation, data processing for modeling and simulation 
 
 **Graduate Research Assistant**, September   2013 – June 2015 
-Department of Material Science and Engineering; Wuhan University of Technology   
+[Department of Material Science and Engineering](http://smse.whut.edu.cn/bkspy/zysz/index_1.htm); [Wuhan University of Technology](http://english.whut.edu.cn/)   
 Helical gear deformation technique and optimization for the mold 
 
 **Graduate Research Assistant**, September   2013 – June 2015 
-Department of Automotive Engineering; Wuhan University of Technology   
+[Department of Automotive Engineering](http://english.whut.edu.cn/scientficr/RFD/201001/t20100118_2667.htm); [Wuhan University of Technology](http://english.whut.edu.cn/)   
 Fine blanking deformation technique including the machine, process, material. 
 
 **Graduate Research Assistant**, September   2013 – June 2015 
-Department of Material Science and Engineering; Wuhan University of Technology 
+[Department of Material Science and Engineering](http://smse.whut.edu.cn/bkspy/zysz/index_1.htm); Wuhan University of Technology(http://english.whut.edu.cn/)  
 **National Natural Science Foundation** of China project “Helical cylindrical gear precision forming mechanism and technology research”(project number: Project Number: 51375356). 
 
 - - -
