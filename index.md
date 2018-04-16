@@ -5,7 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="xiaozhang.jpg">
-
+Black 1117, Iowa State University, Ames, Iowa 50011          Email:xiao1@iastate.edu                   Phone:(919)-758-3668
 Hi! I am a Ph.D. student of [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.iastate.edu/) at [Iowa State University](https://www.iastate.edu/).
 
 Currently, I am working in the [Flexible Electronics and Additive Printing (FEAP) Laboratory](https://www.imse.iastate.edu/feap/) & [In-situ Characterization for Additive Printing (iCAP) Laboratory](https://www.imse.iastate.edu/feap/).
