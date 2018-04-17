@@ -126,7 +126,7 @@ August 2009- May 2012
 - - -
 ## SKILLS and Equipment Experience  
 * **Python, C++, MATLAB, VBA, OpenFOAM, COMSOL, SOLIDWORKS, ANSYS, WORKBENCH, ABAQUS, DEFORM, PROE, ORIGIN, G-language for 3D printer, Mimics, Tensor flow** 
-* **Geomagic, AeroBasic/Aerotech, 3/5 Axial CNC Machine, Arduino, Grinder Machine, Lathe Machine, Milling Machine, Planer Machine, FDM Metal 3D printer, Stratasys 3D Printer, Velleman K8200 3D Printer, Fine Blanking Machine, 10,000 tons hydraulic machine, Rheometer, Industrial Programmable Camera, Microscope**
+* **Geomagic, AeroBasic/Aerotech, 3/5 Axial CNC Machine, Arduino, Grinder Machine, Lathe Machine, Milling Machine, Planer Machine, FDM Metal 3D printer, Stratasys 3D Printer, Velleman K8200 3D Printer, Fine Blanking Machine, 10,000 tons hydraulic machine, Rheometer, Industrial Programmable Camera, Microscope, Laser ablation Machine**
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 - - -
