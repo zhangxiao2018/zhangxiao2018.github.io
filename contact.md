@@ -26,7 +26,7 @@ layout: default
 
 ## Social
 
-1. [Linkedin](www.linkedin.com/in/zhangxiaoiowa)
+1. [Linkedin](https://www.linkedin.com/in/zhangxiaoiowa/)
 
 2. [Facebook](https://www.facebook.com/johnzhangwhut)
 
