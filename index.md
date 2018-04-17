@@ -125,7 +125,7 @@ August 2009- May 2012
 
 - - -
 ## SKILLS and Equipment Experience  
-* **VBA, Python, MATLAB, SOLIDWORKS, ANSYS, DEFORM, PROE, ORIGIN** 
+* **Python, MATLAB, VBA, SOLIDWORKS, ANSYS, ABAQUS, DEFORM, PROE, ORIGIN, Geomagic, AeroBasic/Aerotech, 3/5 Axial CNC Machine, Arduino, FDM Metal 3D printer, Stratasys 3D Printer** 
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 - - -
