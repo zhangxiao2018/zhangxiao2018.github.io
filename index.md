@@ -125,7 +125,7 @@ August 2009- May 2012
 
 - - -
 ## SKILLS and Equipment Experience  
-* **Python, MATLAB, VBA, SOLIDWORKS, ANSYS, ABAQUS, DEFORM, PROE, ORIGIN, Geomagic, AeroBasic/Aerotech, 3/5 Axial CNC Machine, Arduino, FDM Metal 3D printer, Stratasys 3D Printer, Velleman K8200 3D Printer, Fine Blanking Machine, 10，000 tons hydraulic machine ** 
+* **Python, C++, MATLAB, VBA, SOLIDWORKS, ANSYS, ABAQUS, DEFORM, PROE, ORIGIN, Geomagic,G-language for 3D printer, Mimics, Tensor flow,  AeroBasic/Aerotech, 3/5 Axial CNC Machine, Arduino, FDM Metal 3D printer, Stratasys 3D Printer, Velleman K8200 3D Printer, Fine Blanking Machine, 10，000 tons hydraulic machine ** 
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 - - -
