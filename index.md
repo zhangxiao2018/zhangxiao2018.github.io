@@ -125,7 +125,8 @@ August 2009- May 2012
 
 - - -
 ## SKILLS and Equipment Experience  
-* **Python, C++, MATLAB, VBA, COMSOL, SOLIDWORKS, ANSYS, WORKBENCH, ABAQUS, DEFORM, PROE, ORIGIN, Geomagic,G-language for 3D printer, Mimics, Tensor flow,  AeroBasic/Aerotech, 3/5 Axial CNC Machine, Arduino, FDM Metal 3D printer, Stratasys 3D Printer, Velleman K8200 3D Printer, Fine Blanking Machine, 10,000 tons hydraulic machine, Rheometer, Industrial Programmable Camera** 
+* **Python, C++, MATLAB, VBA, COMSOL, SOLIDWORKS, ANSYS, WORKBENCH, ABAQUS, DEFORM, PROE, ORIGIN, G-language for 3D printer, Mimics, Tensor flow** 
+* **Geomagic, AeroBasic/Aerotech, 3/5 Axial CNC Machine, Arduino, FDM Metal 3D printer, Stratasys 3D Printer, Velleman K8200 3D Printer, Fine Blanking Machine, 10,000 tons hydraulic machine, Rheometer, Industrial Programmable Camera**
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 - - -
@@ -139,4 +140,4 @@ In the spare time, I like to work out and play games. Tennis, Golf, Bowling, Bas
 <p>×
 <p>×
 <p>× 
->>>>>>>>>>>>>>>>>>>>>>>>>>   ©Xiao Zhang  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>   ©Xiao Zhang  >>>>>>>>>>>>>>>>>>>>>>>>>>>>
