@@ -45,7 +45,7 @@ Flexible electronic fabrication by electrohydrodynamic jet printing technique co
 Food printing for patients in hospitals 
 
 **Graduate Research Assistant**, December   2017 - present  
-[Center for Nondestructive Evaluation](https://www.cnde.iastate.edu/); [Iowa State University](https://www.iastate.edu/) 
+[Center for Nondestructive Evaluation](https://www.cnde.iastate.edu/); [Iowa State University](https://www.iastate.edu/)                 
 In-situ characterization for additive printing 
 
 **Graduate Research Assistant**, October   2016 – March 2017 
