@@ -41,13 +41,11 @@ B.A. in [Business Administration](https://www.china-admissions.com/wuhan-univers
 Flexible electronic fabrication by electrohydrodynamic jet printing technique combined with laser ablation  
 
 **Graduate Research Assistant**, March   2018 - present  
-[Department of Food Science and Human Nutrition](https://fshn.hs.iastate.edu/); [Iowa State University](https://www.iastate.edu/) 
-
+[Department of Food Science and Human Nutrition](https://fshn.hs.iastate.edu/); [Iowa State University](https://www.iastate.edu/)         
 Food printing for patients in hospitals 
 
 **Graduate Research Assistant**, December   2017 - present  
 [Center for Nondestructive Evaluation](https://www.cnde.iastate.edu/); [Iowa State University](https://www.iastate.edu/) 
-
 In-situ characterization for additive printing 
 
 **Graduate Research Assistant**, October   2016 – March 2017 
