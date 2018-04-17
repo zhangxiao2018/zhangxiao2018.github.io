@@ -124,7 +124,7 @@ August 2009- May 2012
 * ASME Member, March 2018 - present 
 
 - - -
-## SKILLS  
+## SKILLS and Equipment Experience  
 * **VBA, Python, MATLAB, SOLIDWORKS, ANSYS, DEFORM, PROE, ORIGIN** 
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
