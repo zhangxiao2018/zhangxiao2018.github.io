@@ -26,6 +26,6 @@ layout: default
 
 ## Social
 
-1. [Linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+1. [Linkedin](www.linkedin.com/in/zhangxiao3616b9126)
 2. [Facebook](https://www.facebook.com/johnzhangwhut)
 3. WeChat: John_Xiao_Zhang
