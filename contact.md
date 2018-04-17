@@ -26,6 +26,6 @@ layout: default
 
 ## Social
 
-1. [Linkedin](www.linkedin.com/in/zhangxiao3616b9126)
+1. [Linkedin](www.linkedin.com/in/zhangxiao3616b91265d5d8d8e5)
 2. [Facebook](https://www.facebook.com/johnzhangwhut)
 3. WeChat: John_Xiao_Zhang
