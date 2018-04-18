@@ -89,6 +89,8 @@ Wafer package and testing, PVD, CVD, photoresist coater/decoater machine mainten
 
 - - -
 ## PRESENTATIONS 
+**5.** “Application of 3D Printing to Food Preparation at Ames Hospitals”, IMSE Research Symposium, Iowa State University, April 2018.
+
 **4.** “MICRO-FILAMENT DETECTION OF ELECTROHYDRODYNAMIC JET PRINTING”, Industry/University Research Center Semi-Annual Review. Ames, Iowa; April 2018. 
 
 **3.** “Application of 3D Printing to Food Preparation at Ames Hospitals”, poster competition, Center for Crops Utilization Research BioCentury Research Farm. Ames, Iowa; April 2018. 
