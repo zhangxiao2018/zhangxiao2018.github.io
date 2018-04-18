@@ -100,7 +100,13 @@ Wafer package and testing, PVD, CVD, photoresist coater/decoater machine mainten
 **1.** “Machin vision assisted micro-filament detection for real-time monitoring of electrodydrodynamic inkjet printing, Rahul in process”, FAIM2018 conference. Columbus, Ohio; June 2018. 
 
 - - -
-## ORTHER MEETINGS & WORKSHOPS 
+## ORTHER MEETINGS & WORKSHOPS
+**8.** SFF 2018/29th Annual International Solid Freeform Fabrication Symposium - An Additive Manufacturing Conference. Austin, TX ; August 2018
+
+**7.** IISE 2018/IISE Annual Conference and Expo. loews royal resort, orlando, Florida; May 2018
+
+**6.** FAIM 2018/International Conference in Flexible Automation and Intelligent Manufacturing. Ohio University’s Russ College of Engineering and Technology, Ohio; June 2018
+
 **5.** ASME 2018/MSEC Manufacturing Science and Engineering Conference. Taxas A&M University, TX; June 2018
 
 **4.** Industry/University Research Center Semi-Annual Review. Ames, Iowa; April 2018 
