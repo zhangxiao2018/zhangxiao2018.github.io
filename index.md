@@ -19,7 +19,7 @@ Electrohydrodynamic Jet Printing for fabricating micro/nano flexible electronics
 
 - - -
 ## Education
-Ph.D. in [Department of Industrial and Manufacturing Systems](https://www.imse.iastate.edu/), in progress
+Ph.D. in [Department of Industrial and Manufacturing Systems](https://www.imse.iastate.edu/), in progress  
 [Iowa State University](https://www.iastate.edu/); Ames, Iowa 
 
 Ph.D. in [Mechanical and Aerospace Engineering](https://www.mae.ncsu.edu/), December 2017  
