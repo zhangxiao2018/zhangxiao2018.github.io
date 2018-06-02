@@ -14,12 +14,12 @@ Black 1117/1119, Iowa State University, Ames, Iowa, 50011          Email:xiao1@i
 - - -
 
 ## Research Interest
-Electrohydrodynamic Jet Printing for fabricating micro/nano flexible electronics; In-situ Image processing and close-loop control process; Laser diffraction and laser ablation manufacturing technique; Bio-printing and Food printing manufacturing 
-; Large Scale Integrated Circuit manufacturing 
+Electrohydrodynamic Ink-Jet Printing of micro/nano flexible electronics; In-situ Image processing and close-loop control; Laser diffraction technique; Laser ablation technique; Bio-printing and Food printing 
+; Large scale integrated circuit fabrication
 
 - - -
 ## Education
-Ph.D. in [Department of Industrial and Manufacturing Systems](https://www.imse.iastate.edu/), in progress  
+Ph.D. in [Department of Industrial and Manufacturing Systems](https://www.imse.iastate.edu/), Expected graduation time 2021  
 [Iowa State University](https://www.iastate.edu/); Ames, Iowa 
 
 Ph.D. in [Mechanical and Aerospace Engineering](https://www.mae.ncsu.edu/), December 2017  
@@ -38,27 +38,27 @@ B.A. in [Business Administration](https://www.china-admissions.com/wuhan-univers
 ## RESEARCH EXPERIENCE
 **Graduate Research Assistant**, December   2017 - present  
 [Department of Industrial and Manufacturing Systems](https://www.imse.iastate.edu/); [Iowa State University](https://www.iastate.edu/)  
-Flexible electronic fabrication by electrohydrodynamic jet printing technique combined with laser ablation  
+Fabricate flexible electronics by electrohydrodynamic ink-jet printing technique combined with laser ablation  
 
 **Graduate Research Assistant**, March   2018 - present  
 [Department of Food Science and Human Nutrition](https://fshn.hs.iastate.edu/); [Iowa State University](https://www.iastate.edu/)         
-Food printing for patients in hospitals 
+Print food for patients in hospital using 3D printer
 
 **Graduate Research Assistant**, December   2017 - present  
 [Center for Nondestructive Evaluation](https://www.cnde.iastate.edu/); [Iowa State University](https://www.iastate.edu/)                 
-In-situ characterization for additive printing 
+Conduct in-situ characterization for additive printing 
 
 **Graduate Research Assistant**, October   2016 – March 2017 
 [Department of Biological and Agricultural Engineering](https://www.bae.ncsu.edu/); [North Carolina State University](https://www.ncsu.edu/)   
-Air quality evaluation, data processing for modeling and simulation 
+Process data for air quality evaluation using excel
 
 **Graduate Research Assistant**, September   2013 – June 2015 
 [Department of Material Science and Engineering](http://smse.whut.edu.cn/bkspy/zysz/index_1.htm); [Wuhan University of Technology](http://english.whut.edu.cn/)   
-Helical gear deformation technique and optimization for the mold 
+Manufacture helical gear and optimize the mold with finite element simulation technique
 
 **Graduate Research Assistant**, September   2013 – June 2015 
 [Department of Automotive Engineering](http://english.whut.edu.cn/scientficr/RFD/201001/t20100118_2667.htm); [Wuhan University of Technology](http://english.whut.edu.cn/)   
-Fine blanking deformation technique including the machine, process, material. 
+Apply fine blanking technique to do simulation, manufacturing, machine development and material testing 
 
 **Graduate Research Assistant**, September   2013 – June 2015 
 [Department of Material Science and Engineering](http://smse.whut.edu.cn/bkspy/zysz/index_1.htm); [Wuhan University of Technology](http://english.whut.edu.cn/)  
@@ -66,8 +66,8 @@ Fine blanking deformation technique including the machine, process, material.
 
 - - -
 ## TEACHING EXPERIENCE
-**Teaching Assistant**, January   2018 – Present 
-Eng160F; Iowa State University 
+**Teaching Assistant**, January   2018 –  May 2018
+Engineering Fundamentals & Problem Solving; Iowa State University 
 
 **Tutor For Undergraduate Research**, December   2013 – June 2014 
 Department of Material Science and Engineering; Wuhan University of Technology 
@@ -76,7 +76,7 @@ Department of Material Science and Engineering; Wuhan University of Technology
 ## WORK EXPERIENCE 
 **Equipment Engineer**, March   2013 – September 2013 
 [Semiconductor Manufacturing Incorporation (SMIC)](http://www.smics.com/eng/index.php); Shanghai   
-Wafer package and testing, PVD, CVD, photoresist coater/decoater machine maintenance, recipe development 
+Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machine, develop recipe
 
 - - -
 ## HONORS & AWARDS 
@@ -84,8 +84,8 @@ Wafer package and testing, PVD, CVD, photoresist coater/decoater machine mainten
 * University Scholarship, Wuhan University of Technology, 2009 – 2011 
 
 - - -
-## PUBLICATIONS & REPORTS 
-**1.** “Machine vision assisted micro-filament detection for real-time monitoring of electrodydrodynamic inkjet printing”, in process, FAIM2018, Ohio State University; June 2018
+## PUBLICATIONS
+**1.** “Machine vision assisted micro-filament detection for real-time monitoring of electrodydrodynamic inkjet printing”, accepted, Procedia Manufacturing Journal & International Conference in Flexible in Flexible Automation and Intelligent Manufacturing Conference 2018, Ohio State University; June 2018
 
 - - -
 ## PRESENTATIONS 
@@ -121,9 +121,6 @@ Wafer package and testing, PVD, CVD, photoresist coater/decoater machine mainten
 ## SERVICE  
 * Reviewed articles for: 
 The American Society of Mechanical Engineers
-
-* Vice president of Information and Cyber Association, Wuhan University of Technology
-August 2009- May 2012 
 
 - - -
 ## MEMBERSHIP  
