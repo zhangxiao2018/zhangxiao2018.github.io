@@ -89,6 +89,10 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 - - -
 ## PRESENTATIONS 
+**7.** “In-situ quality inspection for micro/nano scale additive manufacturing system based on electrohydrodynamic ink-jet printing using machine vision”, Institute of Industrial and Systems Engineers Annual Conference, Orlando, Florida, May 2018
+
+**6.** “Effects of geometric variations on mechanical properties of bio-scaffolds fro bone regeneration”, Institute of Industrial and Systems Engineers Annual Conference, Orlando, Florida, May 2018
+
 **5.** “Application of 3D Printing to Food Preparation at Ames Hospitals”, IMSE Research Symposium, Iowa State University, April 2018
 
 **4.** “MICRO-FILAMENT DETECTION OF ELECTROHYDRODYNAMIC JET PRINTING”, Industry/University Research Center Semi-Annual Review. Ames, Iowa; April 2018. 
@@ -101,8 +105,6 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 - - -
 ## ORTHER MEETINGS & WORKSHOPS
-**8.** SFF 2018/29th Annual International Solid Freeform Fabrication Symposium - An Additive Manufacturing Conference. Austin, TX ; August 2018
-
 **7.** IISE 2018/IISE Annual Conference and Expo. loews royal resort, orlando, Florida; May 2018
 
 **6.** FAIM 2018/International Conference in Flexible Automation and Intelligent Manufacturing. Ohio University’s Russ College of Engineering and Technology, Ohio; June 2018
