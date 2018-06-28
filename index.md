@@ -132,8 +132,8 @@ The American Society of Mechanical Engineers
 
 - - -
 ## SKILLS and Equipment Experience  
-* **Python, C++, MATLAB, VBA, OpenFOAM, COMSOL, SOLIDWORKS, ANSYS, ABAQUS, DEFORM, ORIGIN, Mimics, TensorFlow, JMP, LabView** 
-* **Geomagic, AeroBasic/Aerotech, 3/5 Axial CNC Machine, Arduino, Grinder Machine, Lathe Machine, Milling Machine, Planer Machine, FDM Metal 3D printer, Stratasys 3D Printer, Velleman K8200 3D Printer, Fine Blanking Machine, 10,000 tons hydraulic machine, Rheometer, Industrial Programmable Camera, Microscope, Laser ablation Machine**
+* **Python, C++, MATLAB, VBA, COMSOL, SOLIDWORKS, ANSYS, ABAQUS, DEFORM, ORIGIN, Mimics, JMP, LabView** 
+* **Geomagic, Aerotech, 3/5 Axial CNC Machine, Arduino, Grinder Machine, FDM Metal 3D printer, Stratasys 3D Printer, Velleman K8200 3D Printer, Fine Blanking Machine, 10,000 tons hydraulic machine, Rheometer, Industrial Programmable Camera**
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 - - -
