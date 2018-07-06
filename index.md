@@ -89,19 +89,21 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 - - -
 ## PRESENTATIONS 
-**7.** “In-situ quality inspection for micro/nano scale additive manufacturing system based on electrohydrodynamic ink-jet printing using machine vision”, Institute of Industrial and Systems Engineers Annual Conference, Orlando, Florida, May 2018
+**7.** “Machin vision assisted micro-filament detection for real-time monitoring of electrodydrodynamic inkjet printing, Rahul in process”, FAIM2018 conference. Columbus, Ohio; June 2018. 
 
-**6.** “Effects of geometric variations on mechanical properties of bio-scaffolds fro bone regeneration”, Institute of Industrial and Systems Engineers Annual Conference, Orlando, Florida, May 2018
+**6.** “In-situ quality inspection for micro/nano scale additive manufacturing system based on electrohydrodynamic ink-jet printing using machine vision”, Institute of Industrial and Systems Engineers Annual Conference, Orlando, Florida, May 2018
 
-**5.** “Application of 3D Printing to Food Preparation at Ames Hospitals”, IMSE Research Symposium, Iowa State University, April 2018
+**5.** “Effects of geometric variations on mechanical properties of bio-scaffolds fro bone regeneration”, Institute of Industrial and Systems Engineers Annual Conference, Orlando, Florida, May 2018
 
-**4.** “MICRO-FILAMENT DETECTION OF ELECTROHYDRODYNAMIC JET PRINTING”, Industry/University Research Center Semi-Annual Review. Ames, Iowa; April 2018. 
+**4.** “Application of 3D Printing to Food Preparation at Ames Hospitals”, IMSE Research Symposium, Iowa State University, April 2018
 
-**3.** “Application of 3D Printing to Food Preparation at Ames Hospitals”, poster competition, Center for Crops Utilization Research BioCentury Research Farm. Ames, Iowa; April 2018. 
+**3.** “MICRO-FILAMENT DETECTION OF ELECTROHYDRODYNAMIC JET PRINTING”, Industry/University Research Center Semi-Annual Review. Ames, Iowa; April 2018. 
 
-**2.** “Model Reconstruction in Additive Printing: A New Approach for in-situ Monitoring and Nondestructive Evaluation of Printed Constructs”, Industry/University Research Center Semi-Annual Review. Ames, Iowa; April 2018. 
+**2.** “Application of 3D Printing to Food Preparation at Ames Hospitals”, poster competition, Center for Crops Utilization Research BioCentury Research Farm. Ames, Iowa; April 2018. 
 
-**1.** “Machin vision assisted micro-filament detection for real-time monitoring of electrodydrodynamic inkjet printing, Rahul in process”, FAIM2018 conference. Columbus, Ohio; June 2018. 
+**1.** “Model Reconstruction in Additive Printing: A New Approach for in-situ Monitoring and Nondestructive Evaluation of Printed Constructs”, Industry/University Research Center Semi-Annual Review. Ames, Iowa; April 2018. 
+
+
 
 - - -
 ## ORTHER MEETINGS & WORKSHOPS
