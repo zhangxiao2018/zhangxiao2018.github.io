@@ -128,9 +128,11 @@ The American Society of Mechanical Engineers
 
 - - -
 ## MEMBERSHIP  
-* IEEE Member; March 2018 - present
+* IEEE Member
 
-* ASME Member, March 2018 - present 
+* ASME Member
+
+* SME Member
 
 - - -
 ## SKILLS and Equipment Experience  
