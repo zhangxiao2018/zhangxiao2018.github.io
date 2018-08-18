@@ -86,6 +86,7 @@ Project 4: Laser ablation for soft materials
 
 - - -
 ## HONORS & AWARDS 
+* NSF Award Winner of 2018 Annual International Solid Freeform Fabrication Symposium, August 2018
 * National Scholarship, Wuhan University of Technology, 2013 – 2014 
 * University Scholarship, Wuhan University of Technology, 2009 – 2011 
 
