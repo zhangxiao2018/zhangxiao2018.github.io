@@ -73,10 +73,16 @@ Engineering Fundamentals & Problem Solving; Iowa State University
 Department of Material Science and Engineering; Wuhan University of Technology 
 
 - - -
-## WORK EXPERIENCE 
+## WORK & PROJECT EXPERIENCE 
 **Equipment Engineer**, March   2013 – September 2013 
 [Semiconductor Manufacturing Incorporation (SMIC)](http://www.smics.com/eng/index.php); Shanghai   
 Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machine, develop recipe
+
+**Research Assitant**, January   2018 – Now
+Project 1: Process control of electrohydrodynamic inkjet printing
+Project 2: 3D printing for civil infrastructure
+Project 3: 3D food printing @ FoodScience1312
+Project 4: Laser ablation for soft materials
 
 - - -
 ## HONORS & AWARDS 
