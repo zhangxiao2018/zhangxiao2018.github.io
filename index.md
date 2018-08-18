@@ -89,7 +89,9 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 - - -
 ## PRESENTATIONS 
-**7.** “Machin vision assisted micro-filament detection for real-time monitoring of electrodydrodynamic inkjet printing, Rahul in process”, FAIM2018 conference. Columbus, Ohio; June 2018. 
+**8.** “Low-cost Bio-printer Gantry Design and Prototyping Process Control for Future Medical Application”, SFF 2018 conference. Austin; August 2018. 
+
+**7.** “Machin vision assisted micro-filament detection for real-time monitoring of electrodydrodynamic inkjet printing", FAIM2018 conference. Columbus, Ohio; June 2018. 
 
 **6.** “In-situ quality inspection for micro/nano scale additive manufacturing system based on electrohydrodynamic ink-jet printing using machine vision”, Institute of Industrial and Systems Engineers Annual Conference, Orlando, Florida, May 2018
 
@@ -107,6 +109,8 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 - - -
 ## ORTHER MEETINGS & WORKSHOPS
+**8.** SFF 2018/2018 Annual International Solid Freeform Fabrication Symposium. Hilton hotel, Austin, Texas; August 2018
+
 **7.** IISE 2018/IISE Annual Conference and Expo. loews royal resort, orlando, Florida; May 2018
 
 **6.** FAIM 2018/International Conference in Flexible Automation and Intelligent Manufacturing. Ohio University’s Russ College of Engineering and Technology, Ohio; June 2018
