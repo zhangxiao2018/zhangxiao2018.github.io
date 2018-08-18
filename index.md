@@ -84,7 +84,7 @@ Project 1: Process control of electrohydrodynamic inkjet printing
 
 Project 2: 3D printing for civil infrastructure
 
-Project 3: 3D food printing @ FoodScience1312
+Project 3: 3D food printing 
 
 Project 4: Laser ablation for soft materials
 
