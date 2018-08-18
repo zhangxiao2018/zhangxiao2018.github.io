@@ -4,7 +4,7 @@ layout: default
 
 ## Connection
 
-* Email: xiao1@iastate.edu
+* Email: xiao1@iastate.edu  OR  bitcoin.xiao@gmail.com
 
 * Phone: +1(919-758-3668)
 
@@ -31,6 +31,8 @@ layout: default
 2. [Facebook](https://www.facebook.com/johnzhangwhut)
 
 3. WeChat: John_Xiao_Zhang
+
+4. Research gate: Xiao Zhang Iowa State
 
 - - -
 <p> *
