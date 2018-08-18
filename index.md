@@ -79,6 +79,7 @@ Department of Material Science and Engineering; Wuhan University of Technology
 Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machine, develop recipe
 
 **Research Assitant**, January   2018 – Now
+
 Project 1: Process control of electrohydrodynamic inkjet printing
 Project 2: 3D printing for civil infrastructure
 Project 3: 3D food printing @ FoodScience1312
