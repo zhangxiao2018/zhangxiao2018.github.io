@@ -40,14 +40,6 @@ B.A. in [Business Administration](https://www.china-admissions.com/wuhan-univers
 [Department of Industrial and Manufacturing Systems](https://www.imse.iastate.edu/); [Iowa State University](https://www.iastate.edu/)  
 Fabricate flexible electronics by electrohydrodynamic ink-jet printing technique combined with laser ablation  
 
-**Graduate Research Assistant**, March   2018 - present  
-[Department of Food Science and Human Nutrition](https://fshn.hs.iastate.edu/); [Iowa State University](https://www.iastate.edu/)         
-Print food for patients in hospital using 3D printer
-
-**Graduate Research Assistant**, December   2017 - present  
-[Center for Nondestructive Evaluation](https://www.cnde.iastate.edu/); [Iowa State University](https://www.iastate.edu/)                 
-Conduct in-situ characterization for additive printing 
-
 **Graduate Research Assistant**, October   2016 – March 2017 
 [Department of Biological and Agricultural Engineering](https://www.bae.ncsu.edu/); [North Carolina State University](https://www.ncsu.edu/)   
 Process data for air quality evaluation using excel
@@ -69,29 +61,17 @@ Apply fine blanking technique to do simulation, manufacturing, machine developme
 **Teaching Assistant**, January   2018 –  May 2018
 Engineering Fundamentals & Problem Solving; Iowa State University 
 
-**Tutor For Undergraduate Research**, December   2013 – June 2014 
-Department of Material Science and Engineering; Wuhan University of Technology 
-
 - - -
 ## WORK & PROJECT EXPERIENCE 
 **Equipment Engineer**, March   2013 – September 2013 
 [Semiconductor Manufacturing Incorporation (SMIC)](http://www.smics.com/eng/index.php); Shanghai   
 Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machine, develop recipe
 
-**Research Assitant**, January   2018 – Now
-
-Project 1: Process control of electrohydrodynamic inkjet printing
-
-Project 2: 3D printing for civil infrastructure
-
-Project 3: 3D food printing 
-
-Project 4: Laser ablation for soft materials
-
 - - -
 ## HONORS & AWARDS 
+* NSF Award Winner of the 47th North American Manufacturing Research Conference, 2019
 * NSF Award Winner of 2018 Annual International Solid Freeform Fabrication Symposium, August 2018
-* National Scholarship, Wuhan University of Technology, 2013 – 2014 
+* National Scholarship, Wuhan University of Technology, 2013 – 2015 
 * University Scholarship, Wuhan University of Technology, 2009 – 2011 
 
 - - -
@@ -100,6 +80,8 @@ Project 4: Laser ablation for soft materials
 
 - - -
 ## PRESENTATIONS 
+**0.** “Surface Roughness Measurement of Additive Manufactured Parts Using Focus Variation Microscopy And Structured Light System”, Iowa State Research Day 2019, Memorial Union, Ames, Iowa, March 2019
+
 **8.** “Low-cost Bio-printer Gantry Design and Prototyping Process Control for Future Medical Application”, SFF 2018 conference. Austin; August 2018. 
 
 **7.** “Machin vision assisted micro-filament detection for real-time monitoring of electrodydrodynamic inkjet printing", FAIM2018 conference. Columbus, Ohio; June 2018. 
@@ -149,10 +131,12 @@ The American Society of Mechanical Engineers
 
 * SME Member
 
+* IISE Member
+
 - - -
 ## SKILLS and Equipment Experience  
 * **Python, C++, MATLAB, VBA, COMSOL, SOLIDWORKS, ANSYS, ABAQUS, DEFORM, ORIGIN, Mimics, JMP, LabView** 
-* **Geomagic, Aerotech, 3/5 Axial CNC Machine, Arduino, Grinder Machine, FDM Metal 3D printer, Stratasys 3D Printer, Velleman K8200 3D Printer, Fine Blanking Machine, 10,000 tons hydraulic machine, Rheometer, Industrial Programmable Camera**
+* **CT scanner,Geomagic Laser scanner, Aerotech, 3/5 Axial CNC Machine, Arduino, Grinder Machine, FDM Metal 3D printer, Stratasys 3D Printer, Velleman K8200 3D Printer, Sturctured light system, Fine Blanking Machine, Vibrator, 10,000 tons hydraulic machine, Rheometer, Industrial Programmable Camera**
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 - - -
