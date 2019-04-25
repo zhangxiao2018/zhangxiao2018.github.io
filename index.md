@@ -82,6 +82,10 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 **3.** “Laser Ablation of Polymers: A Review",accepted,Polymer International, April 2019
 
+**4.** "Correlation Approach for 3D Surface Measurement Data of Additive Manufacturing Parts Based On Optical Metrology", Journal of Manufacturing Sciencena and Engineering, Submitted, April 2019
+
+**5.** "In-situ monitoring of electrohydrodynamic inkjet printing via scalar diffraction for printed droplets", Journal of Manufacturing Systems, Submitted, April 2019
+
 
 - - -
 ## PRESENTATIONS 
