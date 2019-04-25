@@ -76,15 +76,15 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 - - -
 ## PUBLICATIONS
-**1.** “Machine vision assisted micro-filament detection for real-time monitoring of electrodydrodynamic inkjet printing”, published, Procedia Manufacturing Journal & International Conference in Flexible in Flexible Automation and Intelligent Manufacturing Conference 2018, Ohio State University; June 2018
+**5.** "Correlation Approach for 3D Surface Measurement Data of Additive Manufacturing Parts Based On Optical Metrology", Submitted, Journal of Manufacturing Sciencena and Engineering, April 2019
 
-**2.** “3D printing and characterization of hydroxypropyl methylcellulose and methylcellulose for biodegradable support structures", published,Polymer, April 2019
+**4.** "In-situ monitoring of electrohydrodynamic inkjet printing via scalar diffraction for printed droplets", Submitted,Journal of Manufacturing Systems, April 2019
 
 **3.** “Laser Ablation of Polymers: A Review",accepted,Polymer International, April 2019
 
-**4.** "Correlation Approach for 3D Surface Measurement Data of Additive Manufacturing Parts Based On Optical Metrology", Journal of Manufacturing Sciencena and Engineering, Submitted, April 2019
+**2.** “3D printing and characterization of hydroxypropyl methylcellulose and methylcellulose for biodegradable support structures", published,Polymer, April 2019
 
-**5.** "In-situ monitoring of electrohydrodynamic inkjet printing via scalar diffraction for printed droplets", Journal of Manufacturing Systems, Submitted, April 2019
+**1.** “Machine vision assisted micro-filament detection for real-time monitoring of electrodydrodynamic inkjet printing”, published, Procedia Manufacturing Journal & International Conference in Flexible in Flexible Automation and Intelligent Manufacturing Conference 2018, Ohio State University; June 2018
 
 
 - - -
