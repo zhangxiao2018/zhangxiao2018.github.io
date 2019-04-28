@@ -32,7 +32,10 @@ layout: default
 
 3. WeChat: John_Xiao_Zhang
 
-4. Research gate: Xiao Zhang Iowa State
+4. Research gate: https://www.researchgate.net/profile/Xiao_Zhang265
+
+5. ORCID: https://orcid.org/0000-0001-9897-7597
+
 
 - - -
 <p> *
