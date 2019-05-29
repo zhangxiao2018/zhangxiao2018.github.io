@@ -115,6 +115,8 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 - - -
 ## ORTHER MEETINGS & WORKSHOPS
+**9.** IISE 2019/IISE Annual Conference and Expo. Rosen Shingle Creek Hotel, orlando, Florida; May 2018
+
 **8.** SFF 2018/2018 Annual International Solid Freeform Fabrication Symposium. Hilton hotel, Austin, Texas; August 2018
 
 **7.** IISE 2018/IISE Annual Conference and Expo. loews royal resort, orlando, Florida; May 2018
