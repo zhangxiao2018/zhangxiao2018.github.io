@@ -142,10 +142,12 @@ The American Society of Mechanical Engineers
 
 * IISE Member
 
+* ASNT Member
+
 - - -
 ## SKILLS and Equipment Experience  
 * **Python, C++, MATLAB, VBA, COMSOL, SOLIDWORKS, ANSYS, ABAQUS, DEFORM, ORIGIN, Mimics, JMP, LabView** 
-* **CT scanner,Geomagic Laser scanner, Aerotech, 3/5 Axial CNC Machine, Arduino, Grinder Machine, FDM Metal 3D printer, Stratasys 3D Printer, Velleman K8200 3D Printer, Sturctured light system, Fine Blanking Machine, Vibrator, 10,000 tons hydraulic machine, Rheometer, Industrial Programmable Camera**
+* **CT scanner,Geomagic Laser scanner, Aerotech, 3/5 Axial CNC Machine, Arduino, Grinder Machine, FDM Metal 3D printer, Stratasys 3D Printer, Velleman K8200 3D Printer, Sturctured light system, Fine Blanking Machine, Vibrator, 10,000 tons hydraulic machine, Rheometer, Industrial Programmable Camera, Computer topography instrument, Tensile Tester, Drilling & Milling Machine**
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 - - -
