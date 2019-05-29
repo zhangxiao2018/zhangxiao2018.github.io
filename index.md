@@ -89,6 +89,10 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 - - -
 ## PRESENTATIONS 
+**11.** "A Low-cost On-board Sensing Device for Road Surface Condition Assessment", IISE 2019 conference. Orlando, May 2019.
+
+**10.** "3D Printing and Characterization of Cellulose Derivatives for Biodegradable Support Structures", IISE 2019 conference. Orlando, May 2019.
+
 **9.** “Surface Roughness Measurement of Additive Manufactured Parts Using Focus Variation Microscopy And Structured Light System”, Iowa State Research Day 2019, Memorial Union, Ames, Iowa, March 2019
 
 **8.** “Low-cost Bio-printer Gantry Design and Prototyping Process Control for Future Medical Application”, SFF 2018 conference. Austin; August 2018. 
