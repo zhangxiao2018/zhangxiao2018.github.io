@@ -80,7 +80,7 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 **4.** "In-situ monitoring of electrohydrodynamic inkjet printing via scalar diffraction for printed droplets", Submitted,Journal of Manufacturing Systems, April 2019
 
-**3.** “Laser Ablation of Polymers: A Review",accepted,Polymer International, April 2019
+**3.** “Laser Ablation of Polymers: A Review",accepted,Polymer International, May 2019
 
 **2.** “3D printing and characterization of hydroxypropyl methylcellulose and methylcellulose for biodegradable support structures", published,Polymer, April 2019
 
