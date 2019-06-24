@@ -6,8 +6,6 @@ layout: default
 
 * Email: xiao1@iastate.edu  OR  bitcoin.xiao@gmail.com
 
-* Phone: +1(919-758-3668)
-
 ---
 
 ## Mailing Address
@@ -28,13 +26,9 @@ layout: default
 
 1. [Linkedin](https://www.linkedin.com/in/zhangxiaoiowa/)
 
-2. [Facebook](https://www.facebook.com/johnzhangwhut)
+2. Research gate: https://www.researchgate.net/profile/Xiao_Zhang265
 
-3. WeChat: John_Xiao_Zhang
-
-4. Research gate: https://www.researchgate.net/profile/Xiao_Zhang265
-
-5. ORCID: https://orcid.org/0000-0001-9897-7597
+3. ORCID: https://orcid.org/0000-0001-9897-7597
 
 
 - - -
