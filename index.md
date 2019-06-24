@@ -22,7 +22,7 @@ Electrohydrodynamic Ink-Jet Printing of micro/nano flexible electronics; In-situ
 Ph.D. in [Department of Industrial and Manufacturing Systems](https://www.imse.iastate.edu/), Expected graduation time 2021  
 [Iowa State University](https://www.iastate.edu/); Ames, Iowa 
 
-Ph.D. in [Mechanical and Aerospace Engineering](https://www.mae.ncsu.edu/), December 2017  
+Ph.D. in [Mechanical and Aerospace Engineering](https://www.mae.ncsu.edu/), August 2016 - December 2017  
 [North Carolina State University](https://www.ncsu.edu/); Raleigh, North Carolina 
 
 M.S. in [Department of Material Science and Engineering](http://smse.whut.edu.cn/bkspy/zysz/index_1.htm), June   2015  
@@ -75,7 +75,17 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 * University Scholarship, Wuhan University of Technology, 2009 – 2011 
 
 - - -
-## PUBLICATIONS
+## Publications
+**10.** 	“An area-depth approximation model of micro-drilling on high-density polyethylene (HDPE) soft films using pulsed laser ablation”, submitted, Journal of ASME-Journal of Micro- and Nano-Manufacturing, June 2019
+
+**9.**  “Similarity Evaluation of Topography Measurement Results by Different Optical Metrology Technologies for Additive Manufactured Parts”, submitted, Journal of Optics and Lasers in Engineering, June 2019
+
+**8.**	“X-ray characterization of functional silver microstructures via electrohydrodynamic inkjet printing”, submitted, Journal of Materials Processing Technology, June 2019
+
+**7.**	“Fabrication of micro-scale radiation shielding structures using tungsten nanoink through electrohydrodynamic inkjet printing”, submitted, Journal of Micromechanics and Microengineering, June 2019
+
+**6.**	“Evaluation of Cement Paste Containing Recycled Stainless Steel Powder for Sustainable Additive Manufacturing Construction & Building Materials”, submitted, Journal of Construction & Building Materials, April, 2019
+
 **5.** "Correlation Approach for 3D Surface Measurement Data of Additive Manufacturing Parts Based On Optical Metrology", Submitted, Journal of Manufacturing Sciencena and Engineering, April 2019
 
 **4.** "In-situ monitoring of electrohydrodynamic inkjet printing via scalar diffraction for printed droplets", Submitted,Journal of Manufacturing Systems, April 2019
@@ -89,6 +99,8 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 - - -
 ## PRESENTATIONS 
+**12.**	“Laser Ablation: a Review” & “Surface Roughness Measurement using Structured Light System and Focus Variation System”, ASME 2019/MSEC Manufacturing Science and Engineering Conference. Pennsylvania State University, Erie; June 2019
+
 **11.** "A Low-cost On-board Sensing Device for Road Surface Condition Assessment", IISE 2019 conference. Orlando, May 2019.
 
 **10.** "3D Printing and Characterization of Cellulose Derivatives for Biodegradable Support Structures", IISE 2019 conference. Orlando, May 2019.
@@ -115,6 +127,8 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 - - -
 ## ORTHER MEETINGS & WORKSHOPS
+**10.** ASME 2019/MSEC Manufacturing Science and Engineering Conference. Erie, Pennsylvania; June 2018
+
 **9.** IISE 2019/IISE Annual Conference and Expo. Rosen Shingle Creek Hotel, orlando, Florida; May 2018
 
 **8.** SFF 2018/2018 Annual International Solid Freeform Fabrication Symposium. Hilton hotel, Austin, Texas; August 2018
@@ -158,7 +172,7 @@ The American Society of Mechanical Engineers
 
 - - -
 ## Life
-In the spare time, I like to work out and play games. Tennis, Golf, Bowling, Basketball, Swimming, Football, Pingpong, squash, Hiking，billiards, biking, badminton etc. Other than sports, I like art especially about paintings, istallation art. I like music (Classical piano, popular songs both Chinese and American) and dancing (Traditional like Lomba, modern like wave, breaking). Moreover, I would prefer to spend more time with friends as well as with family.
+In the spare time, I like to work out and play sports: Tennis, Golf, Bowling, Basketball, Swimming, Football, Pingpong, squash, Hiking，billiards, biking, badminton etc. Other than sports, I like art especially about paintings, istallation art. I like music (Classical piano, popular songs both Chinese and American) and dancing (Traditional like Lomba, modern like wave, breaking). Moreover, I would prefer to spend more time with friends as well as with family.
 
 - - -
 <p>×
