@@ -58,6 +58,14 @@ Apply fine blanking technique to do simulation, manufacturing, machine developme
 
 - - -
 ## TEACHING EXPERIENCE
+**Graduate Student Mentor**, Summer 2019
+Summer Program for Interdisciplinary Research and Education – Emerging Interface
+Technologies (SPIRE-EIT)
+
+**Teaching Assistant**, Spring Semester 2019
+Engineering System Design, Manufacturing Processes and Specifications; Iowa State
+University 
+
 **Teaching Assistant**, January   2018 –  May 2018
 Engineering Fundamentals & Problem Solving; Iowa State University 
 
