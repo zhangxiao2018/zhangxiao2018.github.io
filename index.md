@@ -62,7 +62,7 @@ Apply fine blanking technique to do simulation, manufacturing, machine developme
 Engineering Fundamentals & Problem Solving; Iowa State University 
 
 - - -
-## WORK & PROJECT EXPERIENCE 
+## WORK EXPERIENCE 
 **Equipment Engineer**, March   2013 – September 2013 
 [Semiconductor Manufacturing Incorporation (SMIC)](http://www.smics.com/eng/index.php); Shanghai   
 Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machine, develop recipe
@@ -75,7 +75,7 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 * University Scholarship, Wuhan University of Technology, 2009 – 2011 
 
 - - -
-## Publications
+## PUBLICATIONS
 **10.** 	“An area-depth approximation model of micro-drilling on high-density polyethylene (HDPE) soft films using pulsed laser ablation”, submitted, Journal of ASME-Journal of Micro- and Nano-Manufacturing, June 2019
 
 **9.**  “Similarity Evaluation of Topography Measurement Results by Different Optical Metrology Technologies for Additive Manufactured Parts”, submitted, Journal of Optics and Lasers in Engineering, June 2019
