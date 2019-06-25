@@ -10,7 +10,7 @@ I am a Ph.D. student of [Department of Industrial and Manufacturing Systems Engi
 
 Currently, I am working for the [Flexible Electronics and Additive Printing (FEAP) Laboratory](https://www.imse.iastate.edu/feap/) & [In-situ Characterization for Additive Printing (iCAP) Laboratory](https://www.imse.iastate.edu/feap/).
 
-Black 1117/1119, Iowa State University, Ames, Iowa, 50011          Email:xiao1@iastate.edu                   Phone:(919)-758-3668
+Black 1117/1119, Iowa State University, Ames, Iowa, 50011          Email:xiao1@iastate.edu                  
 - - -
 
 ## Research Interest
