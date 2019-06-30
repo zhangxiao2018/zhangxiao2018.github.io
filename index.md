@@ -84,25 +84,25 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 - - -
 ## PUBLICATIONS
-**10.** 	“An area-depth approximation model of micro-drilling on high-density polyethylene (HDPE) soft films using pulsed laser ablation”, submitted, Journal of ASME-Journal of Micro- and Nano-Manufacturing, June 2019
+**10.** 	S. Ravi-Kumar, **X. Zhang**, B. Lies, H. Lyu, and H. Qin*, “An area-depth approximation model of micro-drilling on high-density polyethylene (HDPE) soft films using pulsed laser ablation”, submitted, Journal of ASME-Journal of Micro- and Nano-Manufacturing, June 2019
 
-**9.**  “Similarity Evaluation of Topography Measurement Results by Different Optical Metrology Technologies for Additive Manufactured Parts”, submitted, Journal of Optics and Lasers in Engineering, June 2019
+**9.**  Y. Zheng, **X. Zhang**, S. Wang, Q. Li, H. Qin*, and B. Li*, “Similarity Evaluation of Topography Measurement Results by Different Optical Metrology Technologies for Additive Manufactured Parts”, submitted, Journal of Optics and Lasers in Engineering, June 2019
 
-**8.**	“X-ray characterization of functional silver microstructures via electrohydrodynamic inkjet printing”, submitted, Journal of Materials Processing Technology, June 2019
+**8.**	**X. Zhang**, Z. Zhang, H. Lyu, and H. Qin*, “X-ray characterization of functional silver microstructures via electrohydrodynamic inkjet printing”, submitted, Journal of Materials Processing Technology, June 2019
 
-**7.**	“Fabrication of micro-scale radiation shielding structures using tungsten nanoink through electrohydrodynamic inkjet printing”, submitted, Journal of Micromechanics and Microengineering, June 2019
+**7.**	H. Lyu, **X. Zhang**, F. Liu, Y. Huang, S. Jiang, and H. Qin*, “Fabrication of micro-scale radiation shielding structures using tungsten nanoink through electrohydrodynamic inkjet printing”, submitted, Journal of Micromechanics and Microengineering, June 2019
 
-**6.**	“Evaluation of Cement Paste Containing Recycled Stainless Steel Powder for Sustainable Additive Manufacturing Construction & Building Materials”, submitted, Journal of Construction & Building Materials, April, 2019
+**6.**	**X. Zhang**, Y. Zheng, S. Wang, Q. Li, B. Li*, and H. Qin*, “Evaluation of Cement Paste Containing Recycled Stainless Steel Powder for Sustainable Additive Manufacturing Construction & Building Materials”, submitted, Journal of Construction & Building Materials, April, 2019
 
-**5.** "Correlation Approach for 3D Surface Measurement Data of Additive Manufacturing Parts Based On Optical Metrology", Submitted, Journal of Manufacturing Sciencena and Engineering, April 2019
+**5.** B. Melugiri-Shankaramurthy, Y. Sargam, **X. Zhang**, W. Sun, K. Wang, and H. Qin*, "Correlation Approach for 3D Surface Measurement Data of Additive Manufacturing Parts Based On Optical Metrology", Submitted, Journal of Manufacturing Sciencena and Engineering, April 2019
 
-**4.** "In-situ monitoring of electrohydrodynamic inkjet printing via scalar diffraction for printed droplets", Submitted,Journal of Manufacturing Systems, April 2019
+**4.** R. Singh, **X. Zhang**, Y. Chen, J. Zheng, and H. Qin*, "In-situ monitoring of electrohydrodynamic inkjet printing via scalar diffraction for printed droplets", Submitted,Journal of Manufacturing Systems, April 2019
 
-**3.** “Laser Ablation of Polymers: A Review",published,Polymer International, May 2019
+**3.** S. Ravi-Kumar, B. Lies, **X. Zhang**, H. Lyu, and H. Qin* ,“Laser Ablation of Polymers: A Review",published,Polymer International, May 2019
 
-**2.** “3D printing and characterization of hydroxypropyl methylcellulose and methylcellulose for biodegradable support structures", published,Polymer, April 2019
+**2.** P. Polamaplly, Y. Cheng, X. Shi, K. Manikandan, **X. Zhang**, G.E. Kremer, H.Qin*, “3D printing and characterization of hydroxypropyl methylcellulose and methylcellulose for biodegradable support structures", published,Polymer, April 2019
 
-**1.** “Machine vision assisted micro-filament detection for real-time monitoring of electrodydrodynamic inkjet printing”, published, Procedia Manufacturing Journal & International Conference in Flexible in Flexible Automation and Intelligent Manufacturing Conference 2018, Ohio State University; June 2018
+**1.** R. Singh, **X. Zhang**, Y. Chen, J. Zheng, and H. Qin*, “Machine vision assisted micro-filament detection for real-time monitoring of electrodydrodynamic inkjet printing”, published, Procedia Manufacturing Journal & International Conference in Flexible in Flexible Automation and Intelligent Manufacturing Conference 2018, Ohio State University; June 2018
 
 
 - - -
