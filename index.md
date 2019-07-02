@@ -92,9 +92,9 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 **7.**	H. Lyu, **X. Zhang**, F. Liu, Y. Huang, S. Jiang, and H. Qin*, “Fabrication of micro-scale radiation shielding structures using tungsten nanoink through electrohydrodynamic inkjet printing”, submitted, Journal of Micromechanics and Microengineering, June 2019
 
-**6.**	**X. Zhang**, Y. Zheng, S. Wang, Q. Li, B. Li*, and H. Qin*, “Evaluation of Cement Paste Containing Recycled Stainless Steel Powder for Sustainable Additive Manufacturing Construction & Building Materials”, submitted, Journal of Construction & Building Materials, April, 2019
+**6.**	B. Melugiri-Shankaramurthy, Y. Sargam, **X. Zhang**, W. Sun, K. Wang, and H. Qin*,  “Evaluation of Cement Paste Containing Recycled Stainless Steel Powder for Sustainable Additive Manufacturing Construction & Building Materials”, submitted, Journal of Construction & Building Materials, April, 2019
 
-**5.** B. Melugiri-Shankaramurthy, Y. Sargam, **X. Zhang**, W. Sun, K. Wang, and H. Qin*, "Correlation Approach for 3D Surface Measurement Data of Additive Manufacturing Parts Based On Optical Metrology", Submitted, Journal of Manufacturing Sciencena and Engineering, April 2019
+**5.** **X. Zhang**, Y. Zheng, S. Wang, Q. Li, B. Li*, and H. Qin*,"Correlation Approach for 3D Surface Measurement Data of Additive Manufacturing Parts Based On Optical Metrology", Submitted, Journal of Manufacturing Sciencena and Engineering, April 2019
 
 **4.** R. Singh, **X. Zhang**, Y. Chen, J. Zheng, and H. Qin*, "In-situ monitoring of electrohydrodynamic inkjet printing via scalar diffraction for printed droplets", Submitted,Journal of Manufacturing Systems, April 2019
 
