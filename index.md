@@ -77,8 +77,8 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 - - -
 ## HONORS & AWARDS 
-* NSF Award Winner of the 47th North American Manufacturing Research Conference, 2019
-* NSF Award Winner of 2018 Annual International Solid Freeform Fabrication Symposium, August 2018
+* NSF Travel Award Winner of the 47th North American Manufacturing Research Conference, 2019
+* NSF Travel Award Winner of 2018 Annual International Solid Freeform Fabrication Symposium, August 2018
 * National Scholarship, Wuhan University of Technology, 2013 – 2015 
 * University Scholarship, Wuhan University of Technology, 2009 – 2011 
 
