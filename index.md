@@ -84,7 +84,11 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 - - -
 ## PUBLICATIONS
-**10.** 	S. Ravi-Kumar, **X. Zhang**, B. Lies, H. Lyu, and H. Qin*, “An area-depth approximation model of micro-drilling on high-density polyethylene (HDPE) soft films using pulsed laser ablation”, submitted, Journal of ASME-Journal of Micro- and Nano-Manufacturing, June 2019
+**12.** Z. Li, **X. Zhang**, B. Li, H. Qin, "Nonlinear consideration of the in-plane buckling analysis of the confined functionally graded porous arches with nanocomposites reinforcement subjected to radially-directed uniform loading",submitted, Composites Part A, July 2019
+
+**11.** K. Wi, A Chen, **X. Zhang**, K. Manikandan, H. Qin, "Characterizing cement mixtures for concrete 3D printing", submitted, Manufacturing Letters, July 2019
+
+**10.** S. Ravi-Kumar, **X. Zhang**, B. Lies, H. Lyu, and H. Qin*, “An area-depth approximation model of micro-drilling on high-density polyethylene (HDPE) soft films using pulsed laser ablation”, submitted, Journal of ASME-Journal of Micro- and Nano-Manufacturing, June 2019
 
 **9.**  Y. Zheng, **X. Zhang**, S. Wang, Q. Li, H. Qin*, and B. Li*, “Similarity Evaluation of Topography Measurement Results by Different Optical Metrology Technologies for Additive Manufactured Parts”, submitted, Journal of Optics and Lasers in Engineering, June 2019
 
