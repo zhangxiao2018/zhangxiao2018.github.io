@@ -84,6 +84,8 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 - - -
 ## PUBLICATIONS
+**13.** B. Li, **X. Zhang**, H. Lyu, H. Qin,"In-situ monitoring of electrohydrodynamic inkjet printing via scalar diffraction for printed droplets", accepted, Journal of Manufacturing Systems, July 2019
+
 **12.** Z. Li, **X. Zhang**, B. Li, H. Qin, "Nonlinear consideration of the in-plane buckling analysis of the confined functionally graded porous arches with nanocomposites reinforcement subjected to radially-directed uniform loading",submitted, Composites Part A, July 2019
 
 **11.** K. Wi, A Chen, **X. Zhang**, K. Manikandan, H. Qin, "Characterizing cement mixtures for concrete 3D printing", submitted, Manufacturing Letters, July 2019
@@ -94,7 +96,7 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 **8.**	**X. Zhang**, Z. Zhang, H. Lyu, and H. Qin*, “X-ray characterization of functional silver microstructures via electrohydrodynamic inkjet printing”, submitted, Journal of Materials Processing Technology, June 2019
 
-**7.**	H. Lyu, **X. Zhang**, F. Liu, Y. Huang, S. Jiang, and H. Qin*, “Fabrication of micro-scale radiation shielding structures using tungsten nanoink through electrohydrodynamic inkjet printing”, submitted, Journal of Micromechanics and Microengineering, June 2019
+**7.**	H. Lyu, **X. Zhang**, F. Liu, Y. Huang, S. Jiang, and H. Qin*, “Fabrication of micro-scale radiation shielding structures using tungsten nanoink through electrohydrodynamic inkjet printing”, Accepted, Journal of Physics D, July 2019
 
 **6.**	B. Melugiri-Shankaramurthy, Y. Sargam, **X. Zhang**, W. Sun, K. Wang, and H. Qin*,  “Evaluation of Cement Paste Containing Recycled Stainless Steel Powder for Sustainable Additive Manufacturing Construction & Building Materials”, submitted, Journal of Construction & Building Materials, April, 2019
 
@@ -110,7 +112,8 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 
 - - -
-## PRESENTATIONS 
+## PRESENTATIONS
+
 **12.**	“Laser Ablation: a Review” & “Surface Roughness Measurement using Structured Light System and Focus Variation System”, ASME 2019/MSEC Manufacturing Science and Engineering Conference. Pennsylvania State University, Erie; June 2019
 
 **11.** "A Low-cost On-board Sensing Device for Road Surface Condition Assessment", IISE 2019 conference. Orlando, May 2019.
