@@ -22,7 +22,7 @@ Electrohydrodynamic Ink-Jet Printing of micro/nano flexible electronics; In-situ
 Ph.D. in [Department of Industrial and Manufacturing Systems](https://www.imse.iastate.edu/), Expected graduation time 2021  
 [Iowa State University](https://www.iastate.edu/); Ames, Iowa 
 
-Ph.D. in [Mechanical and Aerospace Engineering](https://www.mae.ncsu.edu/), August 2016 - December 2017  
+Ph.D. in [Mechanical and Aerospace Engineering](https://www.mae.ncsu.edu/), study from August 2016 - December 2017  
 [North Carolina State University](https://www.ncsu.edu/); Raleigh, North Carolina 
 
 M.S. in [Department of Material Science and Engineering](http://smse.whut.edu.cn/bkspy/zysz/index_1.htm), June   2015  
