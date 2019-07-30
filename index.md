@@ -164,8 +164,8 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 - - -
 ## SERVICE  
-* Reviewed articles for: 
-The American Society of Mechanical Engineers
+
+* ASNT Iowa Section Chair Secretary (July 1 2019 to June 30 2020)
 
 - - -
 ## MEMBERSHIP  
