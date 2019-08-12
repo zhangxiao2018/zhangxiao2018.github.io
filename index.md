@@ -58,6 +58,10 @@ Apply fine blanking technique to do simulation, manufacturing, machine developme
 
 - - -
 ## TEACHING EXPERIENCE
+**Teaching Assistant**, Fall Semester 2019
+Major TA, Engineering System Design, Manufacturing Processes and Specifications; Iowa State
+University 
+
 **Graduate Student Mentor**, Summer 2019
 Summer Program for Interdisciplinary Research and Education – Emerging Interface
 Technologies (SPIRE-EIT)
@@ -84,7 +88,7 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 - - -
 ## PUBLICATIONS
-**12.** B. Li, **X. Zhang**, H. Lyu, H. Qin,"In-situ monitoring of electrohydrodynamic inkjet printing via scalar diffraction for printed droplets", accepted, Journal of Manufacturing Systems, July 2019
+**12.** **X. Zhang**, B. Li,  H. Lyu, H. Qin,"In-situ monitoring of electrohydrodynamic inkjet printing via scalar diffraction for printed droplets", accepted, Journal of Manufacturing Systems, July 2019
 
 **11.** Z. Li, **X. Zhang**, B. Li, H. Qin, "Nonlinear consideration of the in-plane buckling analysis of the confined functionally graded porous arches with nanocomposites reinforcement subjected to radially-directed uniform loading",submitted, Composites Part B, July 2019
 
@@ -96,7 +100,7 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 **7.**	**X. Zhang**, Z. Zhang, H. Lyu, and H. Qin*, “X-ray characterization of functional silver microstructures via electrohydrodynamic inkjet printing”, submitted, Journal of Additive Manufacturing, June 2019
 
-**6.**	H. Lyu, **X. Zhang**, F. Liu, Y. Huang, S. Jiang, and H. Qin*, “Fabrication of micro-scale radiation shielding structures using tungsten nanoink through electrohydrodynamic inkjet printing”, Accepted, Journal of Micromechanics and Microengineering, July 2019
+**6.**	H. Lyu, **X. Zhang**, F. Liu, Y. Huang, S. Jiang, and H. Qin*, “Fabrication of micro-scale radiation shielding structures using tungsten nanoink through electrohydrodynamic inkjet printing”, accepted, Journal of Micromechanics and Microengineering, July 2019
 
 **5.**	B. Melugiri-Shankaramurthy, Y. Sargam, **X. Zhang**, W. Sun, K. Wang, and H. Qin*,  “Evaluation of Cement Paste Containing Recycled Stainless Steel Powder for Sustainable Additive Manufacturing Construction & Building Materials”, accepted, Journal of Construction & Building Materials, July, 2019
 
