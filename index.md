@@ -76,7 +76,7 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 - - -
 ## HONORS & AWARDS 
-* Runner Up Poster Presentation Award, Nano@IAState, Iowa State University, August 2019
+* Runner Up Poster Presentation Award of Nano@IAState, Ames Lab & Iowa State University, August 2019
 * NSF Travel Award Winner of the 47th North American Manufacturing Research Conference, 2019
 * NSF Travel Award Winner of 2018 Annual International Solid Freeform Fabrication Symposium, August 2018
 * National Scholarship, Wuhan University of Technology, 2013 – 2015 
