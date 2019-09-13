@@ -114,11 +114,11 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 - - -
 ## PATENTS
 
-**3.** H. Lyu, X. Zhang, and H. Qin*, “A novel design of an optical system for in-situ real-time monitoring of micro/nano scale inkjet printing.”  in National Intellectual Property Administration (CNIPA, Chinese Patent Office, Patent #: 201910207498), and Under Review at Iowa State University Office of Intellectual Property and Technology Transfer Office (ISURF 04946).
+**3.** H. Lyu, **X. Zhang**, and H. Qin*, “A novel design of an optical system for in-situ real-time monitoring of micro/nano scale inkjet printing.”  in National Intellectual Property Administration (CNIPA, Chinese Patent Office, Patent #: 201910207498), and Under Review at Iowa State University Office of Intellectual Property and Technology Transfer Office (ISURF 04946).
 
-**2.** H. Lyu, X. Zhang, F. Liu, Y. Huang, S. Jiang, and H. Qin*, “A novel tungsten nanoink for inkjet printing and its synthesis method”, in National Intellectual Property Administration (CNIPA, Chinese Patent Office, Patent #: CN201910400624), and Under Review at Iowa State University Office of Intellectual Property and Technology Transfer Office (ISURF 04952).
+**2.** H. Lyu, **X. Zhang**, F. Liu, Y. Huang, S. Jiang, and H. Qin*, “A novel tungsten nanoink for inkjet printing and its synthesis method”, in National Intellectual Property Administration (CNIPA, Chinese Patent Office, Patent #: CN201910400624), and Under Review at Iowa State University Office of Intellectual Property and Technology Transfer Office (ISURF 04952).
 
-**1.** H. Lyu, X. Wang, S. Zhang, x. Zhang, H. Qin*, “A novel method to manufacturing flexible random laser using graphene-based on electrohydrodynamic inkjet printing” in National Intellectual Property Administration (CNIPA, Chinese Patent Office, Patent #: 201910398268).
+**1.** H. Lyu, X. Wang, S. Zhang, **X. Zhang**, H. Qin*, “A novel method to manufacturing flexible random laser using graphene-based on electrohydrodynamic inkjet printing” in National Intellectual Property Administration (CNIPA, Chinese Patent Office, Patent #: 201910398268).
 
 - - -
 ## PRESENTATIONS
