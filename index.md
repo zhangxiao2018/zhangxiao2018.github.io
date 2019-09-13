@@ -103,11 +103,11 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 **5.**	B. Melugiri-Shankaramurthy, Y. Sargam, **X. Zhang**, W. Sun, K. Wang, and H. Qin*,  “Evaluation of Cement Paste Containing Recycled Stainless Steel Powder for Sustainable Additive Manufacturing Construction & Building Materials”, published, **Journal of Construction & Building Materials**, August, 2019
 
-**4.** **X. Zhang**, Y. Zheng, S. Wang, Q. Li, B. Li*, and H. Qin*,"Correlation Approach for 3D Surface Measurement Data of Additive Manufacturing Parts Based On Optical Metrology", Submitted, **Journal of Manufacturing Sciencena and Engineering**, April 2019
+**4.** **X. Zhang**, Y. Zheng, S. Wang, Q. Li, B. Li*, and H. Qin*,"Correlation Approach for 3D Surface Measurement Data of Additive Manufacturing Parts Based On Optical Metrology", Submitted, **Journal of Manufacturing Science and Engineering**, April 2019
 
-**3.** S. Ravi-Kumar, B. Lies, **X. Zhang**, H. Lyu, and H. Qin* ,“Laser Ablation of Polymers: A Review",published,**Polymer International**, May 2019
+**3.** S. Ravi-Kumar, B. Lies, **X. Zhang**, H. Lyu, and H. Qin* ,“Laser Ablation of Polymers: A Review",published, **Polymer International**, May 2019
 
-**2.** P. Polamaplly, Y. Cheng, X. Shi, K. Manikandan, **X. Zhang**, G.E. Kremer, H.Qin*, “3D printing and characterization of hydroxypropyl methylcellulose and methylcellulose for biodegradable support structures", published,**Polymer**, April 2019
+**2.** P. Polamaplly, Y. Cheng, X. Shi, K. Manikandan, **X. Zhang**, G.E. Kremer, H.Qin*, “3D printing and characterization of hydroxypropyl methylcellulose and methylcellulose for biodegradable support structures", published, **Polymer**, April 2019
 
 **1.** R. Singh, **X. Zhang**, Y. Chen, J. Zheng, and H. Qin*, “Machine vision assisted micro-filament detection for real-time monitoring of electrodydrodynamic inkjet printing”, published, **Procedia Manufacturing Journal & International Conference in Flexible in Flexible Automation and Intelligent Manufacturing Conference 2018**, Ohio State University; June 2018
 
