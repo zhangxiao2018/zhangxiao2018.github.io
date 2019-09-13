@@ -84,7 +84,10 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 - - -
 ## PUBLICATIONS
-**12.** **X. Zhang**, B. Li,  H. Lyu, H. Qin,"In-situ monitoring of electrohydrodynamic inkjet printing via scalar diffraction for printed droplets", published, Journal of Manufacturing Systems, August 2019
+
+**13.** **X. Zhang**, Y. Cai,  B. Li, S. Ravi-Kumar, R. Singh, Y. Chen, H. Qin, "Toward the digital twin in electrohydrodynamic inkjet printing: in-situ real-time monitoring of micro-filaments via machine vision", submitted, Journal of Robotics and Computer-Integrated Manufacturing, August 2019
+
+**12.** **X. Zhang**, B. Li, H. Lyu, H. Qin,”In-situ monitoring of electrohydrodynamic inkjet printing via scalar diffraction for printed droplets”, published, Journal of Manufacturing Systems, August 2019
 
 **11.** Z. Li, **X. Zhang**, B. Li, H. Qin, "Nonlinear consideration of the in-plane buckling analysis of the confined functionally graded porous arches with nanocomposites reinforcement subjected to radially-directed uniform loading",submitted, Composites Part B, July 2019
 
