@@ -113,7 +113,7 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 **2.** P. Polamaplly, Y. Cheng, X. Shi, K. Manikandan, **X. Zhang**, G.E. Kremer, H. Qin*, “3D printing and characterization of hydroxypropyl methylcellulose and methylcellulose for biodegradable support structures”, Polymer, 173 (2019): 119-126, ISSN 0032-3861. https://doi.org/10.1016/j.polymer.2019.04.013 
 
-**1.** R. Singh, **X. Zhang**, Y. Chen, J. Zheng, and H. Qin*, “In-situ Real-time Characterization of Micro Filaments in Electrohydrodynamic Inkjet Printing Using Machine Vision”, Procedia Manufacturing (2018). (https://doi.org/10.1016/j.promfg.2018.10.011)
+**1.** R. Singh, **X. Zhang**, Y. Chen, J. Zheng, and H. Qin*, “[In-situ Real-time Characterization of Micro Filaments in Electrohydrodynamic Inkjet Printing Using Machine Vision](https://doi.org/10.1016/j.promfg.2018.10.011)”, Procedia Manufacturing (2018). 
 
 - - -
 ## PATENTS
