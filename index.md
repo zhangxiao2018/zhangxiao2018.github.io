@@ -177,20 +177,18 @@ Iowa State University
 
 - - -
 ## SERVICE  
-
-* ASNT Iowa Section Chair Secretary (July 1 2019 to June 30 2020)
+*	American Society for Nondestructive Testing (ASNT) Iowa Section Chair Secretary ( July 1 2019 – June 30 2020)
+*	Mentor of Undergraduate students in FEAP lab
+*	FEAP lab manager
 
 - - -
 ## MEMBERSHIP  
-* IEEE Member
+*	Institute of Industrial and Systems Engineers (IISE)
+*	Society of Manufacturing Engineers (SME)
+*	American Society of Mechanical Engineers (ASME)
+*	American Society for Nondestructive Testing (ASNT)
+*	Institute of Electrical and Electronics Engineers (IEEE)
 
-* ASME Member
-
-* SME Member
-
-* IISE Member
-
-* ASNT Member
 
 - - -
 ## SKILLS and Equipment Experience  
