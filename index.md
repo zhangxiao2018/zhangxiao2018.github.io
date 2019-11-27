@@ -12,16 +12,12 @@ Black 1117/1119, Iowa State University, Ames, Iowa, 50011          Email:xiao1@i
 - - -
 
 ## Research Interest
-•	Flexible Electronics and Additive Printing (FEAP) Laboratory
+*	Flexible Electronics and Additive Printing (FEAP) Laboratory
  	www.imse.iastate.edu/feap 
-  
-•	Hybrid additive manufacturing and prototyping
-
-•	Electrohydrodynamic Ink-Jet Printing of micro/nano flexible electronics
-
-•	Laser diffraction technique, laser ablation technique, machine vision
-
-•	Bio-printing, food printing, concrete printing
+*	Hybrid additive manufacturing and prototyping
+*	Electrohydrodynamic Ink-Jet Printing of micro/nano flexible electronics
+*	Laser diffraction technique, laser ablation technique, machine vision
+*	Bio-printing, food printing, concrete printing
 
 - - -
 ## Education
@@ -40,26 +36,16 @@ B.A. in [Business Administration](https://www.china-admissions.com/wuhan-univers
 - - -
 ## RESEARCH EXPERIENCE
 Research Assistant, Industrial & Manufacturing Systems Engineering Department, Iowa State University       December 2017 – Current
-
-•	Designed in-situ monitoring system of micro-filaments for electrohydrodynamic ink-jet printing using machine vision:
-
-•	Printed biodegradable support structures using hydroxypropyl methylcellulose and methylcellulose 
-
-•	Reviewed laser ablation of different polymers
-
-•	Designed in-situ monitoring of electrohydrodynamic inkjet printing system via scalar diffraction for printed droplets 
-
-•	Fabricated micro-scale radiation shielding structures using tungsten nanoink through electrohydrodynamic inkjet printing
-
-•	Evaluated cement paste containing recycled stainless steel powder for sustainable additive manufacturing
-
-•	Simulated an area-depth approximation model of micro-drilling on high-density polyethylene (HDPE) soft films using pulsed laser ablation
-
-•	Developed correlation Approach for 3D Surface Measurement Data of Additive Manufactured Parts Based on Optical Metrology
-
-•	Fabricated silver microstructures via electrohydrodynamic jet printing as customizable X-ray marker in bio-scaffold for biomedical diagnostic medical imaging
-
-•	Analysed the in-plane buckling analysis of the confined functionally graded porous arches with nanocomposites reinforcement subjected to radially-directed uniform loading
+*	Designed in-situ monitoring system of micro-filaments for electrohydrodynamic ink-jet printing using machine vision:
+*	Printed biodegradable support structures using hydroxypropyl methylcellulose and methylcellulose 
+*	Reviewed laser ablation of different polymers
+*	Designed in-situ monitoring of electrohydrodynamic inkjet printing system via scalar diffraction for printed droplets 
+*	Fabricated micro-scale radiation shielding structures using tungsten nanoink through electrohydrodynamic inkjet printing
+*	Evaluated cement paste containing recycled stainless steel powder for sustainable additive manufacturing
+*	Simulated an area-depth approximation model of micro-drilling on high-density polyethylene (HDPE) soft films using pulsed laser ablation
+*	Developed correlation Approach for 3D Surface Measurement Data of Additive Manufactured Parts Based on Optical Metrology
+*	Fabricated silver microstructures via electrohydrodynamic jet printing as customizable X-ray marker in bio-scaffold for biomedical diagnostic medical imaging
+*	Analysed the in-plane buckling analysis of the confined functionally graded porous arches with nanocomposites reinforcement subjected to radially-directed uniform loading
 
 ## WORK EXPERIENCE 
 **Equipment Engineer**, March   2013 – September 2013 
@@ -70,13 +56,9 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 ## TEACHING EXPERIENCE
 Iowa State University
 
-•	Summer 2019: Graduate Student Mentor, Summer Program for Interdisciplinary Research and Education – Emerging Interface Technologies (SPIRE-EIT)
-
-•	Fall 2019: IE 248 Engineering System Design, Manufacturing Processes & Specifications
-
-•	Spring 2018: ENG 160 Engineering Fundamentals & Problem Solving
-
-- - -
+*	Summer 2019: Graduate Student Mentor, Summer Program for Interdisciplinary Research and Education – Emerging Interface Technologies (SPIRE-EIT)
+*	Fall 2019: IE 248 Engineering System Design, Manufacturing Processes & Specifications
+*	Spring 2018: ENG 160 Engineering Fundamentals & Problem Solving
 
 - - -
 ## HONORS & AWARDS 
