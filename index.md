@@ -14,9 +14,13 @@ Black 1117/1119, Iowa State University, Ames, Iowa, 50011          Email:xiao1@i
 ## Research Interest
 •	Flexible Electronics and Additive Printing (FEAP) Laboratory
  	www.imse.iastate.edu/feap 
+  
 •	Hybrid additive manufacturing and prototyping
+
 •	Electrohydrodynamic Ink-Jet Printing of micro/nano flexible electronics
+
 •	Laser diffraction technique, laser ablation technique, machine vision
+
 •	Bio-printing, food printing, concrete printing
 
 - - -
