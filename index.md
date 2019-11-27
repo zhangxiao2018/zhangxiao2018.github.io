@@ -12,12 +12,16 @@ Black 1117/1119, Iowa State University, Ames, Iowa, 50011          Email:xiao1@i
 - - -
 
 ## Research Interest
-Electrohydrodynamic Ink-Jet Printing of micro/nano flexible electronics; In-situ Image processing and close-loop control; Laser diffraction technique; Laser ablation technique; Bio-printing and Food printing 
-; Large scale integrated circuit fabrication
+•	Flexible Electronics and Additive Printing (FEAP) Laboratory
+ 	www.imse.iastate.edu/feap 
+•	Hybrid additive manufacturing and prototyping
+•	Electrohydrodynamic Ink-Jet Printing of micro/nano flexible electronics
+•	Laser diffraction technique, laser ablation technique, machine vision
+•	Bio-printing, food printing, concrete printing
 
 - - -
 ## Education
-Ph.D. in [Department of Industrial and Manufacturing Systems](https://www.imse.iastate.edu/), Expected graduation time 2021  
+Ph.D. in [Department of Industrial and Manufacturing Systems](https://www.imse.iastate.edu/), Expected graduation time 2020  
 [Iowa State University](https://www.iastate.edu/); Ames, Iowa 
 
 M.S. in [Department of Material Science and Engineering](http://smse.whut.edu.cn/bkspy/zysz/index_1.htm), June   2015  
@@ -31,42 +35,26 @@ B.A. in [Business Administration](https://www.china-admissions.com/wuhan-univers
 
 - - -
 ## RESEARCH EXPERIENCE
-**Graduate Research Assistant**, December   2017 - present  
-[Department of Industrial and Manufacturing Systems](https://www.imse.iastate.edu/); [Iowa State University](https://www.iastate.edu/)  
-Fabricate flexible electronics by electrohydrodynamic ink-jet printing technique combined with laser ablation  
-
-**Graduate Research Assistant**, October   2016 – March 2017 
-[Department of Biological and Agricultural Engineering](https://www.bae.ncsu.edu/); [North Carolina State University](https://www.ncsu.edu/)   
-Process data for air quality evaluation using excel
-
-**Graduate Research Assistant**, September   2013 – June 2015 
-[Department of Material Science and Engineering](http://smse.whut.edu.cn/bkspy/zysz/index_1.htm); [Wuhan University of Technology](http://english.whut.edu.cn/)   
-Manufacture helical gear and optimize the mold with finite element simulation technique
-
-**Graduate Research Assistant**, September   2013 – June 2015 
-[Department of Automotive Engineering](http://english.whut.edu.cn/scientficr/RFD/201001/t20100118_2667.htm); [Wuhan University of Technology](http://english.whut.edu.cn/)   
-Apply fine blanking technique to do simulation, manufacturing, machine development and material testing 
-
-**Graduate Research Assistant**, September   2013 – June 2015 
-[Department of Material Science and Engineering](http://smse.whut.edu.cn/bkspy/zysz/index_1.htm); [Wuhan University of Technology](http://english.whut.edu.cn/)  
-**National Natural Science Foundation** of China project “Helical cylindrical gear precision forming mechanism and technology research”(project number: Project Number: 51375356). 
+Research Assistant, Industrial & Manufacturing Systems Engineering Department, Iowa State University       December 2017 – Current
+•	Designed in-situ monitoring system of micro-filaments for electrohydrodynamic ink-jet printing using machine vision:
+•	Printed biodegradable support structures using hydroxypropyl methylcellulose and methylcellulose 
+•	Reviewed laser ablation of different polymers
+•	Designed in-situ monitoring of electrohydrodynamic inkjet printing system via scalar diffraction for printed droplets 
+•	Fabricated micro-scale radiation shielding structures using tungsten nanoink through electrohydrodynamic inkjet printing
+•	Evaluated cement paste containing recycled stainless steel powder for sustainable additive manufacturing
+•	Simulated an area-depth approximation model of micro-drilling on high-density polyethylene (HDPE) soft films using pulsed laser ablation
+•	Developed correlation Approach for 3D Surface Measurement Data of Additive Manufactured Parts Based on Optical Metrology
+•	Fabricated silver microstructures via electrohydrodynamic jet printing as customizable X-ray marker in bio-scaffold for biomedical diagnostic medical imaging
+•	Analysed the in-plane buckling analysis of the confined functionally graded porous arches with nanocomposites reinforcement subjected to radially-directed uniform loading
 
 - - -
 ## TEACHING EXPERIENCE
-**Teaching Assistant**, Fall Semester 2019
-Major TA, Engineering System Design, Manufacturing Processes and Specifications; Iowa State
-University 
+Iowa State University
 
-**Graduate Student Mentor**, Summer 2019
-Summer Program for Interdisciplinary Research and Education – Emerging Interface
-Technologies (SPIRE-EIT)
+•	Summer 2019: Graduate Student Mentor, Summer Program for Interdisciplinary Research and Education – Emerging Interface Technologies (SPIRE-EIT)
+•	Fall 2019: IE 248 Engineering System Design, Manufacturing Processes & Specifications
+•	Spring 2018: ENG 160 Engineering Fundamentals & Problem Solving
 
-**Teaching Assistant**, Spring Semester 2019
-Engineering System Design, Manufacturing Processes and Specifications; Iowa State
-University 
-
-**Teaching Assistant**, January   2018 –  May 2018
-Engineering Fundamentals & Problem Solving; Iowa State University 
 
 - - -
 ## WORK EXPERIENCE 
@@ -87,7 +75,7 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 **13.** **X. Zhang**, Y. Cai,  B. Li, S. Ravi-Kumar, R. Singh, Y. Chen, H. Qin, "Toward the digital twin in electrohydrodynamic inkjet printing: in-situ real-time monitoring of micro-filaments via machine vision", submitted, **Journal of Robotics and Computer-Integrated Manufacturing**, August 2019
 
-**12.** **X. Zhang**, B. Li, H. Lyu, H. Qin,”In-situ monitoring of electrohydrodynamic inkjet printing via scalar diffraction for printed droplets”, published, **Journal of Manufacturing Systems**, August 2019
+**12.** **X. Zhang**, B. Lies, H. Lyu, and H. Qin*, “In-situ monitoring of electrohydrodynamic inkjet printing via scalar diffraction for printed droplets”, Journal of Manufacturing Systems. Volume 53 (2019): 1-10. https://doi.org/10.1016/j.jmsy.2019.08.001
 
 **11.** Z. Li, **X. Zhang**, B. Li, H. Qin, "Nonlinear consideration of the in-plane buckling analysis of the confined functionally graded porous arches with nanocomposites reinforcement subjected to radially-directed uniform loading",submitted, **Composites Part B**, July 2019
 
@@ -105,11 +93,11 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 
 **4.** **X. Zhang**, Y. Zheng, S. Wang, Q. Li, B. Li*, and H. Qin*,"Correlation Approach for 3D Surface Measurement Data of Additive Manufacturing Parts Based On Optical Metrology", Submitted, **Journal of Manufacturing Science and Engineering**, April 2019
 
-**3.** S. Ravi-Kumar, B. Lies, **X. Zhang**, H. Lyu, and H. Qin* ,“Laser Ablation of Polymers: A Review",published, **Polymer International**, May 2019
+**3.** S. Ravi-Kumar, B. Lies, **X. Zhang**, H. Lyu, and H. Qin*, “Laser Ablation of Polymers: A Review.” Polymer International. 68.8 (2019): 1391-1401. https://doi.org/10.1002/PI.5834 
 
-**2.** P. Polamaplly, Y. Cheng, X. Shi, K. Manikandan, **X. Zhang**, G.E. Kremer, H.Qin*, “3D printing and characterization of hydroxypropyl methylcellulose and methylcellulose for biodegradable support structures", published, **Polymer**, April 2019
+**2.** P. Polamaplly, Y. Cheng, X. Shi, K. Manikandan, **X. Zhang**, G.E. Kremer, H. Qin*, “3D printing and characterization of hydroxypropyl methylcellulose and methylcellulose for biodegradable support structures”, Polymer, 173 (2019): 119-126, ISSN 0032-3861. https://doi.org/10.1016/j.polymer.2019.04.013 
 
-**1.** R. Singh, **X. Zhang**, Y. Chen, J. Zheng, and H. Qin*, “Machine vision assisted micro-filament detection for real-time monitoring of electrodydrodynamic inkjet printing”, published, **Procedia Manufacturing Journal & International Conference in Flexible in Flexible Automation and Intelligent Manufacturing Conference 2018**, Ohio State University; June 2018
+**1.** R. Singh, **X. Zhang**, Y. Chen, J. Zheng, and H. Qin*, “In-situ Real-time Characterization of Micro Filaments in Electrohydrodynamic Inkjet Printing Using Machine Vision”, Procedia Manufacturing (2018). https://doi.org/10.1016/j.promfg.2018.10.011
 
 - - -
 ## PATENTS
