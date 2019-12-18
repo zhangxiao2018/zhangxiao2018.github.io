@@ -36,14 +36,19 @@ B.A. in [Business Administration](https://www.china-admissions.com/wuhan-univers
 - - -
 ## Project Experience
 
-*1. In-situ Nondestructive Evaluation of In-flight Particle Dynamics and Intrinsic Properties for Thermal Spray Repairs
+* In-situ Nondestructive Evaluation of In-flight Particle Dynamics and Intrinsic Properties for Thermal Spray Repairs
 (July 1, 2018 – June 30, 2019; $200k)
-*2. Feasibility Study of 3D Printing of Concrete for Transportation Infrastructures
+
+*  Feasibility Study of 3D Printing of Concrete for Transportation Infrastructures
 (October 1, 2018 – September 30, 2019; $49,991) 
-*3. Investigation of Correlations behind Point Cloud Data between Structure Light Scanning System and Depth from Defocus System for Surface Roughness Analysis;Jan 1, 2019 – May 30, 2019; $14,847; 
-*4. An Origami Structural Design for Pipeline Rehabilitation (May 15, 2019 – July 31, 2019; $7,800)
-*5. Integrating Online Modules and Virtual Reality into Teaching of Hands-On Manufacturing Courses Jun 6, 2019 – July 31, 2020; $21,019; 
-*6.Data Analytics Proposal: Statistical approaches for firearms and toolmark identification – 3D surface topography comparison methods in forensics Aug 15, 2019 – Dec 31, 2010; $14,847;
+
+*  Investigation of Correlations behind Point Cloud Data between Structure Light Scanning System and Depth from Defocus System for Surface Roughness Analysis;Jan 1, 2019 – May 30, 2019; $14,847; 
+
+* An Origami Structural Design for Pipeline Rehabilitation (May 15, 2019 – July 31, 2019; $7,800)
+
+*Integrating Online Modules and Virtual Reality into Teaching of Hands-On Manufacturing Courses Jun 6, 2019 – July 31, 2020; $21,019; 
+
+*Data Analytics Proposal: Statistical approaches for firearms and toolmark identification – 3D surface topography comparison methods in forensics Aug 15, 2019 – Dec 31, 2010; $14,847;
 
 - - -
 ## RESEARCH EXPERIENCE
