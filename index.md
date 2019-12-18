@@ -44,7 +44,7 @@ B.A. in [Business Administration](https://www.china-admissions.com/wuhan-univers
 *4. An Origami Structural Design for Pipeline Rehabilitation (May 15, 2019 – July 31, 2019; $7,800)
 *5. Integrating Online Modules and Virtual Reality into Teaching of Hands-On Manufacturing Courses Jun 6, 2019 – July 31, 2020; $21,019; 
 *6.Data Analytics Proposal: Statistical approaches for firearms and toolmark identification – 3D surface topography comparison methods in forensics Aug 15, 2019 – Dec 31, 2010; $14,847;
-*7.Summer Program for Interdisciplinary Research and Education – Emerging Interface Technologies (SPIRE-EIT, NSF Grant #1757900): three URAs for SPIRE-EIT 2019, 3D scanning project.
+*7.Summer Program for Interdisciplinary Research and Education, Emerging Interface Technologies, SPIRE-EIT, NSF Grant #1757900: three URAs for SPIRE-EIT 2019, 3D scanning project.
 
 - - -
 ## RESEARCH EXPERIENCE
