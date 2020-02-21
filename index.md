@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am a Ph.D. student of [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.iastate.edu/) at [Iowa State University](https://www.iastate.edu/).
+I am a Ph.D. candidate of [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.iastate.edu/) at [Iowa State University](https://www.iastate.edu/).
 
 Currently, I am working for the [Flexible Electronics and Additive Printing (FEAP) Laboratory](https://www.imse.iastate.edu/feap/) & [In-situ Characterization for Additive Printing (iCAP) Laboratory](https://www.imse.iastate.edu/feap/).
 
