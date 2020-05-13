@@ -73,12 +73,16 @@ Packing and testing wafer, maintain PVD, CVD, photoresist coater/decoater machin
 ## TEACHING EXPERIENCE
 Iowa State University
 
+*	Spring 2020: IE 348 
 *	Summer 2019: Graduate Student Mentor, Summer Program for Interdisciplinary Research and Education – Emerging Interface Technologies (SPIRE-EIT)
 *	Fall 2019: IE 248 Engineering System Design, Manufacturing Processes & Specifications
 *	Spring 2018: ENG 160 Engineering Fundamentals & Problem Solving
 
 - - -
 ## HONORS & AWARDS 
+* Teaching Excellence Award, Iowa State University, May 2020
+* George E. Lamp Graduate Scholarship, Iowa State University, May 2020
+* ASNT Fellowship Award, honor issuerThe American Society for Nondestructive Testing, April 2020
 * Runner Up Poster Presentation Award of Nano@IAState, Ames Lab & Iowa State University, August 2019
 * NSF Travel Award Winner of the 47th North American Manufacturing Research Conference, 2019
 * NSF Travel Award Winner of 2018 Annual International Solid Freeform Fabrication Symposium, August 2018
