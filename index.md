@@ -182,7 +182,7 @@ Iowa State University
 
 - - -
 ## SERVICE  
-*	American Society for Nondestructive Testing (ASNT) Iowa Section Chair Secretary ( July 1 2019 – June 30 2020)
+*	American Society for Nondestructive Testing (ASNT) Iowa Section Chair Secretary ( July 1 2019 – December 30 2020)
 *	Mentor of Undergraduate students in FEAP lab
 *	FEAP lab manager
 * Public Relations Chair of [Rapid Manufacturing](https://www.stuorg.iastate.edu/site/2989) in Iowa State University
