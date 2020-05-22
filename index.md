@@ -92,6 +92,8 @@ Iowa State University
 - - -
 ## PUBLICATIONS
 
+**14.** L. Jiang, Y. Huang, **X. Zhang**, H. Qin, "Electrohydrodynamic inkjet printing of Polydimethylsiloxane (PDMS)", accepted, **Procedia Manufacturing**, 48th SME North American Manufacturing Research Conference, NAMRC 48, Ohio, USA, May 2020
+
 **13.** **X. Zhang**, Y. Cai,  B. Li, S. Ravi-Kumar, R. Singh, Y. Chen, H. Qin, "Toward the digital twin in electrohydrodynamic inkjet printing: in-situ real-time monitoring of micro-filaments via machine vision", submitted, **Journal of Robotics and Computer-Integrated Manufacturing**, August 2019
 
 **12.** **X. Zhang**, B. Lies, H. Lyu, and H. Qin*, “In-situ monitoring of electrohydrodynamic inkjet printing via scalar diffraction for printed droplets”, Journal of Manufacturing Systems. Volume 53 (2019): 1-10. https://doi.org/10.1016/j.jmsy.2019.08.001
