@@ -92,6 +92,8 @@ Iowa State University
 - - -
 ## PUBLICATIONS
 
+**14.** S. Wang, **X. Zhang**, Y. Zheng, B. Li, H. Qin, and Q. Li, “Similarity Evaluation of 3D Surface Topography Measurements in Additive Manufacturing”, Under Review at IISE Transactions, May 2020.
+
 **14.** L. Jiang, Y. Huang, **X. Zhang**, H. Qin, "Electrohydrodynamic inkjet printing of Polydimethylsiloxane (PDMS)", accepted, **Procedia Manufacturing**, 48th SME North American Manufacturing Research Conference, NAMRC 48, Ohio, USA, May 2020
 
 **13.** **X. Zhang**, Y. Cai,  B. Li, S. Ravi-Kumar, R. Singh, Y. Chen, H. Qin, "Toward the digital twin in electrohydrodynamic inkjet printing: in-situ real-time monitoring of micro-filaments via machine vision", submitted, **Journal of Robotics and Computer-Integrated Manufacturing**, August 2019
