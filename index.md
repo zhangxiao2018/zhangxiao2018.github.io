@@ -2,13 +2,18 @@
 layout: default
 ---
 
+## News
+
+We have won the [ASNT award](https://news.engineering.iastate.edu/2020/11/05/research-in-nondestructive-evaluation-thermal-imaging-leads-to-a-national-award-for-cyclone-engineers/) at [Iowa State University](https://www.iastate.edu/).
+
+
 ## About Me
 
 I am a Ph.D. candidate of [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.iastate.edu/) at [Iowa State University](https://www.iastate.edu/).
 
 Currently, I am working for the [Flexible Electronics and Additive Printing (FEAP) Laboratory](https://www.imse.iastate.edu/feap/) & [In-situ Characterization for Additive Printing (iCAP) Laboratory](https://www.imse.iastate.edu/feap/).
 
-Black 1117/1119, Iowa State University, Ames, Iowa, 50011          Email:xiao1@iastate.edu                  
+Black 1117/1119, Iowa State University, Ames, Iowa, 50011          Email: xiao1@iastate.edu                  
 - - -
 
 ## Research Interest
