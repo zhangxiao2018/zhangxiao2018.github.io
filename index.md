@@ -2,20 +2,20 @@
 layout: default
 ---
 
-## News
-
-We have won the [ASNT award](https://news.engineering.iastate.edu/2020/11/05/research-in-nondestructive-evaluation-thermal-imaging-leads-to-a-national-award-for-cyclone-engineers/) at [Iowa State University](https://www.iastate.edu/) in 2020, Congrats
-
-We won the the 1st place for the Web/Mobile App Competition in Data Analytics and Information Systems (DAIS) Division at the 2020 IISE Annual Conference, [Link1](https://youtu.be/7cCa5eH16EI),[link2](https://youtu.be/PgbkwAzFivs), Congrats
-
 ## About Me
 
 I am a Ph.D. candidate of [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.iastate.edu/) at [Iowa State University](https://www.iastate.edu/).
 
 Currently, I am working for the [Flexible Electronics and Additive Printing (FEAP) Laboratory](https://www.imse.iastate.edu/feap/) & [In-situ Characterization for Additive Printing (iCAP) Laboratory](https://www.imse.iastate.edu/feap/).
 
-Black 1117/1119, Iowa State University, Ames, Iowa, 50011          Email: xiao1@iastate.edu                  
+Black 1117/1119, Iowa State University, Ames, Iowa, 50011          Email: xiao1@iastate.edu     
 - - -
+
+## News
+
+We have won the [ASNT award](https://news.engineering.iastate.edu/2020/11/05/research-in-nondestructive-evaluation-thermal-imaging-leads-to-a-national-award-for-cyclone-engineers/) at [Iowa State University](https://www.iastate.edu/) in 2020, Congrats
+
+We won the the 1st place for the Web/Mobile App Competition in Data Analytics and Information Systems (DAIS) Division at the 2020 IISE Annual Conference, [Link1](https://youtu.be/7cCa5eH16EI),[link2](https://youtu.be/PgbkwAzFivs), Congrats
 
 ## Research Interest
 *	Flexible Electronics and Additive Printing (FEAP) Laboratory
